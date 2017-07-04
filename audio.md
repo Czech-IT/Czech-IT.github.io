@@ -23,7 +23,7 @@ type: audio
             <audio controls>
               <source src="{{ item.text }}" type="audio/mp3">
               Your browser does not support the audio element.
-            </audio> {{ item. text }} 
+            </audio>
           </td>
         </tr>
       {% endif %}
