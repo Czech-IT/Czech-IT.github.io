@@ -4,9 +4,11 @@ type: Email
 ---
 
 <ul>
-{% for example in site.data.table %}
+{% for item in site.data.table %}
   <li>
-      {{ example }}
+      {{ item.Learner }}
+      {{ item.Type }}
+      {{ item.Text }}
   </li>
 {% endfor %}
 </ul>
