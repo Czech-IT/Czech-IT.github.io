@@ -7,8 +7,8 @@ This corpus stands for comparative and contrastive analyses exhibited among ling
 
 ## Data
 The project is based on quantitative analyses of the corpus, which is constituted by an amount of different kinds of data, in order to retain a wide range of linguistic behaviors and styles:
-* [Email communications](texts)
-* [Text messages (SMS, Chat)](texts)
+* [Email communications](email)
+* [Text messages (SMS, Chat)](text-messages)
 * [Oral production](texts)
 * [Auto-judgements of grammaticality](texts)
 
