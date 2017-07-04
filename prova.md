@@ -1,11 +1,16 @@
 ---
 title: sample post
-author: dave
+type: Email
 ---
 
-{% assign author = site.data.people[page.author] %}
-<a rel="author"
-  href="https://twitter.com/{{ author.twitter }}"
-  title="{{ author.name }}">
-    {{ author.name }}
-</a>
+<ul>
+{% for example in site.data.table %}
+  <li>
+    {% if example.type %}
+      {{ example.type }} {{ example.text }}
+    {% else %}
+      {{ member.name }}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
