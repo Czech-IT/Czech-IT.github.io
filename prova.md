@@ -1,16 +1,8 @@
 ---
-title: sample post
-type: Email
+title: Email
+description: Subcorpus Email
+type: email
+layout: corpus-items
 ---
 
-<ul>
-{% for item in site.data.table %}
-  {% if item.Type == page.type %}
-    <li>
-        {{ item.Learner }}
-        {{ item.Type }}
-        {{ item.Text }}
-    </li>
-  {% endif %}
-{% endfor %}
-</ul>
+
