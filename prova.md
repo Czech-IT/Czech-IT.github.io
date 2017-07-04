@@ -2,7 +2,19 @@
 title: Email
 description: Subcorpus Email
 type: email
-layout: corpus-items
 ---
 
 
+<h1> {{ page.title }} </h1>
+<h2> {{ page.description }} </h2>
+<ul>
+{% for item in site.data.table %}
+  {% if item.type == page.type %}
+    <li>
+        {{ item.learner }}
+        {{ item.type }}
+        {{ item.text }}
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
