@@ -11,10 +11,6 @@ The project is based on quantitative analyses of the corpus, which is constitute
 * [Oral production](texts)
 * [Auto-judgements of grammaticality](texts)
 
-
-## Browse
-### Browse the texts [here](texts).
-
 ## Aims
 Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints than from theoretical and general perspectives. 
 This corpus stands for comparative and contrastive analyses exhibited among linguistic structures patterns among languages during the acquisitional path by the learner.
