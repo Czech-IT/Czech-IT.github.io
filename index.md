@@ -1,6 +1,8 @@
 ---
 title: CzechIT! - A linguistic corpus of Czech learners acquiring Italian
 ---
+# Czech-IT! is a linguistic corpus of Czech learners acquiring Italian
+
 ## Browse
 ### Browse the texts [here](texts).
 
