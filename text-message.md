@@ -1,7 +1,7 @@
 ---
 title: Text messages
 description: Subcorpus Text messages
-type: text-messages
+type: text-message
 ---
 
 
