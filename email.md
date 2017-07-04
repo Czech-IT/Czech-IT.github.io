@@ -11,9 +11,8 @@ type: email
 {% for item in site.data.table %}
   {% if item.type == page.type %}
     <li>
+        {{ item.text }} <br>
         {{ item.learner }}
-        {{ item.type }}
-        {{ item.text }}
     </li>
   {% endif %}
 {% endfor %}
