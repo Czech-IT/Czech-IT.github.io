@@ -21,17 +21,17 @@
 thead{
       background:#0091ea; ;
       color: #fff;
-      line-height:3;
+      line-height:2;
       font-weight: 300;
 }
 tbody tr:nth-of-type(odd) {
       background:#e6e6e6;
 }
 tbody tr{
-      line-height:2
+      line-height:1.5
 }
-td {
+td,th {
       padding:1em;
-      align:left;
+      text-align:left;
       border:none     
 }
