@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    <style>
+    html {background:#f9f9f9;}
+    body,html{width:100%; margin:0; padding:0;}
+    main{margin: 0 auto; width:90%; max-width:50em; font-family: "Open Sans"}
+    hr{margin-top: 26px; margin-bottom:26px; opacity:0.15;}
+    h3{font-size: 22px; font-weight: 300; line-height:1}
+    h2{font-size: 26px; font-weight: 300; line-height:1; color:#666;}
+    h1{font-size: 48px; font-weight: 300; line-height: 1; color:#999;}
+    p, li {font-size:18px; line-height:1.5; font-weight: 300; color:#666;}
+    h2{margin-top:2em;} 
+    h3{margin-top:2em;} 
+    a {color:inherit;  font:inherit;}
+    .main-content{margin-top:4em};
+    h2{font-weight: 700}
+    h1, h2, h3 {color:#666;}
+    .page-header * {color:#fff;  width:100%;}
+    .header-page
+     </style>
+  </head>
+
+  <body>
+  <header class="header-page">
+    <section class="page-header">
+      <main>
+        <h1 class="project-name">{{ site.title }}</h1>
+        <h2 class="project-tagline">{{ site.tagline }}</h2>
+        <a href="#" class="btn">View on GitHub</a>
+        <a href="#" class="btn">Download .zip</a>
+        <a href="#" class="btn">Download .tar.gz</a>
+      </main>
+    </section>
+  </header>
+  
+  <section class="main-content">
+    <main>
+      {{ content }}
+    </main>
+  </section>
+  
+  <footer>
+    <main>
+      <h2>{{ site.title }}</h2>
+    </main>
+  </footer>
+
+
+  </body>
+</html>
