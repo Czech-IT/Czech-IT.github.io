@@ -1,6 +1,6 @@
 title: Czech-IT!
 description: Linguistic corpus of native Czech learners acquiring Italian language
-theme: jekyll-theme-cayman
+theme: 
 github:
   - is_project_page: true
 show_downloads: true
