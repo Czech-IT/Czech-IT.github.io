@@ -1,6 +1,6 @@
 ---
 title: Texts corpus
-layout: default
+layout: prova
 ---
 # Corpus 
 July 3, 2017
