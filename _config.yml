@@ -1,6 +1,8 @@
 title: Czech-IT!
 description: Linguistic corpus of native Czech learners acquiring Italian language
 theme: jekyll-theme-cayman
+github:
+  - is_project_page: true
 github_username: Czech-IT
 gems: 
   - jekyll-feed
