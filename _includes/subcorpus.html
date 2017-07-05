@@ -12,7 +12,16 @@
       {% if item.type == page.type %}
         <tr>
           <td> {{ item.learner }} </td>
+          {% if page.type == audio %}
+            <td>  
+              <audio controls>
+                <source src="{{ item.text }}" type="audio/mp3">
+                Your browser does not support the audio element.
+              </audio>
+            </td>
+          {% else %}
           <td> {{ item. text }} </td>
+        {% endif %}
         </tr>
       {% endif %}
     {% endfor %}
