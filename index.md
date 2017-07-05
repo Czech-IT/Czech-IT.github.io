@@ -10,7 +10,7 @@ The project is based on quantitative analyses of the dataset, which is constitut
 * [Email communications](email)
 * [Text messages (SMS, Chat)](text-message)
 * [Oral production](audio)
-* [Auto-judgements of grammaticality](texts)
+* [Auto-judgements of grammaticality](survey)
 
 ## The project
 Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni.
