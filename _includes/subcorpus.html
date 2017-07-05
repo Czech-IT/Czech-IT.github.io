@@ -12,7 +12,7 @@
       {% if item.type == page.type %}
         <tr>
           <td> {{ item.learner }} </td>
-          {% if item.type == audio %}
+          {% if item.type = audio %}
             <td>  
               <audio controls>
                 <source src="{{ item.text }}" type="audio/mp3">
