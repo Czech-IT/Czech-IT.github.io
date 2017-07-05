@@ -1,12 +1,11 @@
 ---
 title: Survey messages
-description: Subcorpus Text messages
+description: Subcorpus Survey messages
 type: survey-message
 ---
 
 
-<h1> {{ page.title }} </h1>
-<h2> {{ page.description }} </h2>
+<h2> {{ page.title }} </h2>
 <table>
   <thead>
     <tr>
