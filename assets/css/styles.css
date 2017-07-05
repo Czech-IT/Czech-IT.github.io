@@ -24,5 +24,8 @@ thead{
       line-height:3;
 }
 tbody tr:nth-of-type(odd) {
-      background:#ccc
+      background:#e6e6e6;
+}
+tbody tr{
+      line-height:2
 }
