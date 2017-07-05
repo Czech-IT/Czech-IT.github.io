@@ -3,15 +3,14 @@
 <table>
   <thead>
     <tr>
-      <th>Learner ID</th>
       <th>Text</th>
+      <th>Learner ID</th>
     </tr>
   </thead>
   <tbody>
     {% for item in site.data.table %}
       {% if item.type == page.type %}
         <tr>
-          <td> {{ item.learner }} </td>
           {% if item.type == "audio" %}
             <td>  
               <audio controls>
@@ -22,6 +21,7 @@
           {% else %}
           <td> {{ item. text }} </td>
         {% endif %}
+          <td> {{ item.learner }} </td>
         </tr>
       {% endif %}
     {% endfor %}
