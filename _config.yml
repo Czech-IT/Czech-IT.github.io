@@ -3,6 +3,7 @@ description: Linguistic corpus of native Czech learners acquiring Italian langua
 theme: jekyll-theme-cayman
 github:
   - is_project_page: true
+show_downloads: true
 github_username: Czech-IT
 gems: 
   - jekyll-feed
