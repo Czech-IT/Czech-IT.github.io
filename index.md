@@ -13,7 +13,7 @@ The project is based on quantitative analyses of the corpus, which is constitute
 * [Auto-judgements of grammaticality](texts)
 
 ## The project
-Czech-IT! is a project actively mantained by Marco Petolicchio and Marcello Bolpagni.
+Czech-IT! is a project actively mantained by Marco Petolicchio [gh:p-marco](https://github.com/p-marco) and Marcello Bolpagni.
 
 ### Methods
 Data is marked and annotated with NLP tools running in the Python environment.
