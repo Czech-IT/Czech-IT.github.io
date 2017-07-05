@@ -17,3 +17,12 @@
       footer{margin-top:2em}
       .main-content h2:after{display:block; content:""; margin-top: 26px; margin-bottom:26px; width:100%; height:1px; background-color: #ccc}
       .main-content {padding-bottom:2em}
+
+thead{
+      background:#0091ea; ;
+      color: #fff;
+      line-height:3;
+}
+tbody tr:nth-of-type(odd) {
+      background:#ccc
+}
