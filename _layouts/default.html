@@ -18,12 +18,12 @@
     h2{font-weight: 700}
     h1, h2, h3 {color:#666;}
     .page-header * {color:#fff;  width:100%;}
-    .header-page
+    .frontMatter, .backMatter{background:#0091ea; color:#fff; margin:0; padding:2em;}
      </style>
   </head>
 
   <body>
-  <header class="header-page">
+  <header class="header-page frontMatter">
     <section class="page-header">
       <main>
         <h1 class="project-name">{{ site.title }}</h1>
@@ -41,7 +41,7 @@
     </main>
   </section>
   
-  <footer>
+  <footer class="backMatter">
     <main>
       <h2>{{ site.title }}</h2>
     </main>
