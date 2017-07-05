@@ -45,7 +45,9 @@
   
   <section class="main-content">
     <main>
-      {{ content }}
+      {% block content %}
+        {{ content }}
+      {% endblock %}
     </main>
   </section>
   
