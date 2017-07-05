@@ -8,7 +8,7 @@
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_items = site.data.table | sort:'title' %}
+    {% assign sorted_items = site.data.table | sort:'text' %}
     {% for item in sorted_items %}
       {% if item.type == page.type %}
         <tr>
