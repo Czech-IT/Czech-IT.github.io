@@ -5,6 +5,7 @@
     <tr>
       <th>Text</th>
       <th>Learner ID</th>
+       <th>Item ID</th>
     </tr>
   </thead>
   <tbody>
@@ -23,6 +24,7 @@
           <td> {{ item. text }} </td>
         {% endif %}
           <td> {{ item.learner }} </td>
+          <td> {{ item.item-id }} </td>
         </tr>
       {% endif %}
     {% endfor %}
