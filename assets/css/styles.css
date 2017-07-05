@@ -24,14 +24,18 @@ thead{
       line-height:2;
       font-weight: 300;
 }
-tbody tr:nth-of-type(odd) {
+tbody tr:nth-of-type(even) {
       background:#e6e6e6;
 }
 tbody tr{
-      line-height:1.5
+      line-height:1.5;
+      transition: all .2s;
 }
 td,th {
       padding:1em;
       text-align:left;
       border:none     
+}
+tbody tr:hover{
+      background:#80deea;
 }
