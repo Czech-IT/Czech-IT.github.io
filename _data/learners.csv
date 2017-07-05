@@ -1,10 +1,20 @@
-﻿id,name,level-oral,level-written,age,education,other-languages,notes,
-1,DP,level-oral,B1,25-40,graduate,,,
-2,MS,level-oral,C1,25-40,graduate,,,
-3,MN,level-oral,B1,0-25,2nd cycle school,,,
-4,PV,level-oral,B1,0-25,2nd cycle school,,,
-5,RZ,level-oral),A2,0-25,2nd cycle school,,,
-6,MR,level-oral,B2,25-40,2nd cycle school,,,
-7,JL,level-oral,B2,40-60,2nd cycle school,,,
-8,TV,level-oral,C1,25-40,undergraduate,,,
-9,EK,level-oral,B1,40-60,graduate,,,
+﻿id;name;level-oral;level-written;age;education;other-languages;notes;Sloupec2;Sloupec3;Sloupec4;Sloupec5;Sloupec6;Sloupec7;Sloupec8;Sloupec9;Sloupec10;Sloupec11;Sloupec12;Sloupec13;Sloupec14;Sloupec15;Sloupec16;Sloupec17;Sloupec18;Sloupec19;Sloupec20;Sloupec21
+1;DP;B1;B1;25-40;graduate;english-spanish;;;;;;;;;;;;;;;;;;;;;
+2;MS;C1;C1;25-40;graduate;english-german;;;;;;;;;;;;;;;;;;;;;
+3;MN;A2;B1;0-25;2nd cycle school;english;;;;;;;;;;;;;;;;;;;;;
+4;PV;A2;B1;0-25;2nd cycle school;english;;;;;;;;;;;;;;;;;;;;;
+5;RZ;A2;A2;0-25;2nd cycle school;english;;;;;;;;;;;;;;;;;;;;;
+6;MR;C1;B2;25-40;2nd cycle school;english;;;;;;;;;;;;;;;;;;;;;
+7;JL;B2;B2;40-60;2nd cycle school;english-german-russian;;;;;;;;;;;;;;;;;;;;;
+8;TV;TV;C1;25-40;undergraduate;english;;;;;;;;;;;;;;;;;;;;;
+9;EK;B1;B1;40-60;graduate;english-german;;;;;;;;;;;;;;;;;;;;;
+10;LD;B1;A2;40-60;2nd cycle school;english-russian;;;;;;;;;;;;;;;;;;;;;
+11;JW;B1;B1;25-40;2nd cycle school;english-german-polish;;;;;;;;;;;;;;;;;;;;;
+12;MRT;C1;C1;40-60;phd;english-polish;;;;;;;;;;;;;;;;;;;;;
+13;MRL;C1;C1;25-40;2nd cycle school;english;;;;;;;;;;;;;;;;;;;;;
+14;TT;B2;B2;25-40;2nd cycle school;english;;;;;;;;;;;;;;;;;;;;;
+15;MM;nn;nn;25-40;undergraduate;english;;;;;;;;;;;;;;;;;;;;;
+16;KK;nn;nn;25-40;graduate;english;;;;;;;;;;;;;;;;;;;;;
+17;DR;C1;C1;25-40;2nd cycle school;english-polish;;;;;;;;;;;;;;;;;;;;;
+18;JJ;nn;nn;25-40;undergraduate;english;;;;;;;;;;;;;;;;;;;;;
+19;NP;A2;B1;40-60;graduate;english-croatian;;;;;;;;;;;;;;;;;;;;;
