@@ -53,12 +53,17 @@
     <main>
       <h2><a href="#">{{ site.title }}</a></h2>
       <!-- tofix -->
-      <p> Browse the corpus:</p>
+      <p> Browse the corpus:
+        <span><a href="{{ site.url }}/email">Email messages</a></span> /
+        <span><a href="{{ site.url }}/text-message">Text messages</a></span> /
+        <span><a href="{{ site.url }}/audio">Oral production</a></span> /
+        <span><a href="{{ site.url }}/survey">Survey</a></span>
+      </p>
       <ul>
         <li><a href="{{ site.url }}/email">Email messages</a></li>
-        <li><a href="#">Text messages</a></li>
-        <li><a href="#">Oral production</a></li>
-        <li><a href="#">Survey</a></li>
+        <li><a href="{{ site.url }}/text-message">Text messages</a></li>
+        <li><a href="{{ site.url }}/audio">Oral production</a></li>
+        <li><a href="{{ site.url }}/survey">Survey</a></li>
       </ul>
       <!-- / --->
       <small>{{ site.copyright }} </small>
