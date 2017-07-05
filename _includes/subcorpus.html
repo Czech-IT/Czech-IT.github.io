@@ -8,7 +8,8 @@
     </tr>
   </thead>
   <tbody>
-    {% for item in site.data.table | sort: 'text' %}
+    {% assign sorted_items = site.data.table | sort:'title' %}
+    {% for item in sorted_items %}
       {% if item.type == page.type %}
         <tr>
           {% if item.type == "audio" %}
