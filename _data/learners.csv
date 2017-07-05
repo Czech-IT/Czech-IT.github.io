@@ -1,10 +1,10 @@
-﻿id;name;level-oral;level-written;age;education;other-languages;notes;Sloupec2;Sloupec3;Sloupec4;Sloupec5;Sloupec6;Sloupec7;Sloupec8;Sloupec9;Sloupec10;Sloupec11;Sloupec12;Sloupec13;Sloupec14;Sloupec15;Sloupec16;Sloupec17;Sloupec18;Sloupec19;Sloupec20;Sloupec21
-1;DP;level-oral;B1;25-40;graduate;;;;;;;;;;;;;;;;;;;;;;
-2;MS;level-oral;C1;25-40;graduate;;;;;;;;;;;;;;;;;;;;;;
-3;MN;level-oral;B1;0-25;2nd cycle school;;;;;;;;;;;;;;;;;;;;;;
-4;PV;level-oral;B1;0-25;2nd cycle school;;;;;;;;;;;;;;;;;;;;;;
-5;RZ;level-oral);A2;0-25;2nd cycle school;;;;;;;;;;;;;;;;;;;;;;
-6;MR;level-oral;B2;25-40;2nd cycle school;;;;;;;;;;;;;;;;;;;;;;
-7;JL;level-oral;B2;40-60;2nd cycle school;;;;;;;;;;;;;;;;;;;;;;
-8;TV;level-oral;C1;25-40;undergraduate;;;;;;;;;;;;;;;;;;;;;;
-9;EK;level-oral;B1;40-60;graduate;;;;;;;;;;;;;;;;;;;;;;
+﻿id,name,level-oral,level-written,age,education,other-languages,notes,Sloupec2,Sloupec3,Sloupec4,Sloupec5,Sloupec6,Sloupec7,Sloupec8,Sloupec9,Sloupec10,Sloupec11,Sloupec12,Sloupec13,Sloupec14,Sloupec15,Sloupec16,Sloupec17,Sloupec18,Sloupec19,Sloupec20,Sloupec21
+1,DP,level-oral,B1,25-40,graduate,,,,,,,,,,,,,,,,,,,,,,
+2,MS,level-oral,C1,25-40,graduate,,,,,,,,,,,,,,,,,,,,,,
+3,MN,level-oral,B1,0-25,2nd cycle school,,,,,,,,,,,,,,,,,,,,,,
+4,PV,level-oral,B1,0-25,2nd cycle school,,,,,,,,,,,,,,,,,,,,,,
+5,RZ,level-oral),A2,0-25,2nd cycle school,,,,,,,,,,,,,,,,,,,,,,
+6,MR,level-oral,B2,25-40,2nd cycle school,,,,,,,,,,,,,,,,,,,,,,
+7,JL,level-oral,B2,40-60,2nd cycle school,,,,,,,,,,,,,,,,,,,,,,
+8,TV,level-oral,C1,25-40,undergraduate,,,,,,,,,,,,,,,,,,,,,,
+9,EK,level-oral,B1,40-60,graduate,,,,,,,,,,,,,,,,,,,,,,
