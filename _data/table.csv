@@ -1,33 +1,33 @@
 learner,type,text,date,phenomenon-1,phenomenon-2,phenomenon-3,notes
-DP,text-message,"Sono vestiti vecchi 10 anni, quindi le uso per barca",3.7.2017,Uso dell´articolo,Omissione,,
-DP,text-message,Chiamo il uomo della allergologia ,3.7.2017,Uso dell´articolo,Equivoco,,
-DP,text-message,Faccio i piani in my mind per mandare curricula ,3.7.2017,Uso dell´articolo,Ipercorrettismo,Omissione,Uso della linga inglese per sopperire alla macanza lessicale 
-DP,text-message,Devo prendere Beata di altra città quando viene con autobus ,3.7.2017,Uso dell´articolo,Omissione,Omissione,
-DP,text-message,Facciamo adesso altro piano va bene?,3.7.2017,Uso dell´articolo,Omissione,,
-DP,text-message,Non funziona proprio così che quando sei triste puoi scusarti di tutte cose ,3.7.2017,Uso dell´articolo,Omissione,,
-DP,text-message,Come tu hai detto al tuo padre quando ti ha chiesto ,3.7.2017,Uso dell´articolo,Ipercorrettismo,,
-DP,text-message,Lo so che non era bell giorno ,3.7.2017,Uso dell´articolo,Equivoco,,
-DP,text-message,È lo stesso nel tutto il mondo,3.7.2017,Uso dell´articolo,Ipercorrettismo,,
-DP,text-message,Lo primo nella rivista ,3.7.2017,Uso dell´articolo,Equivoco,,
-DP,text-message,Guarda chi è autore ,3.7.2017,Uso dell´articolo,Omissione,,
-DP,text-message,Sono seduta next to a grande ciccione ,3.7.2017,Uso dell´articolo,Omissione,,Uso della linga inglese per sopperire alla macanza lessicale 
-DP,text-message,Anch’io scusa ,3.7.2017,Syntax,,,calco dal ceco taky promi?
-DP,text-message,Anch’io grazie ,3.7.2017,Syntax,,,calco dal ceco taky d?kuji/díky
-MS,text-message,Abbiamo un corso interno per i nostri studenti dell 1. anno ,3.7.2017,Uso dell´articolo,Equivoco,,
-MS,text-message,Con famiglia festeggeremo il primo fine settimana a luglio ,3.7.2017,Uso dell´articolo,Omissione,,
-MN,text-message,Anche mi piace che vivo da sola  ,3.7.2017,Ordine della frase,,,posizione dell’ “anche” anteposto al verbo
-MN,text-message,Ma io già anche parlo!  ,3.7.2017,Ordine della frase,,,posizione dell’ “anche” anteposto al verbo
-MN,text-message,Per ragazzo non è tanto triste ,3.7.2017,Uso dell´articolo,Omissione,,
-MN,text-message,Mia amica mi aiuta ,3.7.2017,Uso dell´articolo,Omissione,,
-MN,text-message,Vado al Roma per 2 settimane ,3.7.2017,Uso dell´articolo,Ipercorrettismo,Equivoco,
-PV,text-message,Non ho gli amici italiani ,3.7.2017,Uso dell´articolo,Ipercorrettismo,,
-PV,text-message,Mia insegnante Danka ha il coniuge e lui è l’italiano ,3.7.2017,Omissione,Equivoco,Ipercorrettismo,
-RZ,email,"Scusi, ma non posso venire a scuola oggi e domani, perchè sono malata e ho la febbre",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,"Frase corretta, da confrontare diacronicamente con le due successive (scorrette)"
-RZ,email,"Scusarmi ma domani non posso venire per lezione ""Italština v písni"" perchè io devo andare dal medico",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
-RZ,email,"Scusarmi, ma io non posso venire questa settimana, perché sono malata.",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
-MR,email,Scusa mi per il disturbo ma devo chiederti un favore,3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
+1,text-message,"Sono vestiti vecchi 10 anni, quindi le uso per barca",3.7.2017,Uso dell´articolo,Omissione,,
+1,text-message,Chiamo il uomo della allergologia ,3.7.2017,Uso dell´articolo,Equivoco,,
+1,text-message,Faccio i piani in my mind per mandare curricula ,3.7.2017,Uso dell´articolo,Ipercorrettismo,Omissione,Uso della linga inglese per sopperire alla macanza lessicale 
+1,text-message,Devo prendere Beata di altra città quando viene con autobus ,3.7.2017,Uso dell´articolo,Omissione,Omissione,
+1,text-message,Facciamo adesso altro piano va bene?,3.7.2017,Uso dell´articolo,Omissione,,
+1,text-message,Non funziona proprio così che quando sei triste puoi scusarti di tutte cose ,3.7.2017,Uso dell´articolo,Omissione,,
+1,text-message,Come tu hai detto al tuo padre quando ti ha chiesto ,3.7.2017,Uso dell´articolo,Ipercorrettismo,,
+1,text-message,Lo so che non era bell giorno ,3.7.2017,Uso dell´articolo,Equivoco,,
+1,text-message,È lo stesso nel tutto il mondo,3.7.2017,Uso dell´articolo,Ipercorrettismo,,
+1,text-message,Lo primo nella rivista ,3.7.2017,Uso dell´articolo,Equivoco,,
+1,text-message,Guarda chi è autore ,3.7.2017,Uso dell´articolo,Omissione,,
+1,text-message,Sono seduta next to a grande ciccione ,3.7.2017,Uso dell´articolo,Omissione,,Uso della linga inglese per sopperire alla macanza lessicale 
+1,text-message,Anch’io scusa ,3.7.2017,Syntax,,,calco dal ceco taky promi?
+1,text-message,Anch’io grazie ,3.7.2017,Syntax,,,calco dal ceco taky d?kuji/díky
+2,text-message,Abbiamo un corso interno per i nostri studenti dell 1. anno ,3.7.2017,Uso dell´articolo,Equivoco,,
+2,text-message,Con famiglia festeggeremo il primo fine settimana a luglio ,3.7.2017,Uso dell´articolo,Omissione,,
+3,text-message,Anche mi piace che vivo da sola  ,3.7.2017,Ordine della frase,,,posizione dell’ “anche” anteposto al verbo
+3,text-message,Ma io già anche parlo!  ,3.7.2017,Ordine della frase,,,posizione dell’ “anche” anteposto al verbo
+3,text-message,Per ragazzo non è tanto triste ,3.7.2017,Uso dell´articolo,Omissione,,
+3,text-message,Mia amica mi aiuta ,3.7.2017,Uso dell´articolo,Omissione,,
+3,text-message,Vado al Roma per 2 settimane ,3.7.2017,Uso dell´articolo,Ipercorrettismo,Equivoco,
+4,text-message,Non ho gli amici italiani ,3.7.2017,Uso dell´articolo,Ipercorrettismo,,
+4,text-message,Mia insegnante Danka ha il coniuge e lui è l’italiano ,3.7.2017,Omissione,Equivoco,Ipercorrettismo,
+5,email,"Scusi, ma non posso venire a scuola oggi e domani, perchè sono malata e ho la febbre",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,"Frase corretta, da confrontare diacronicamente con le due successive (scorrette)"
+5,email,"Scusarmi ma domani non posso venire per lezione ""Italština v písni"" perchè io devo andare dal medico",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
+5,email,"Scusarmi, ma io non posso venire questa settimana, perché sono malata.",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
+6,email,Scusa mi per il disturbo ma devo chiederti un favore,3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
 MC,email,"Ciao Marcello, Mi scusi per non venire alle lezioni di questa settimana ",3.7.2017,Morfologia del verbo,Alternanza tu/Lei,,
-JL,email,Io sempre voglio fare tutto molto precisamente,3.7.2017,Ordine della frase,,,posizione del “sempre” anteposto al verbo
+7,email,Io sempre voglio fare tutto molto precisamente,3.7.2017,Ordine della frase,,,posizione del “sempre” anteposto al verbo
 X,audio,"audio/2017-07-04-AUDIO-00000149.mp3",3.7.2017,,,,
 Y,audio,"audio/2017-07-04-AUDIO-00032758.mp3",3.7.2017,,,,
 MB,text-message, Mi piace i gelati, 3.7.2017, Sintassi,,,
