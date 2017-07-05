@@ -13,7 +13,7 @@ The project is based on quantitative analyses of the dataset, which is constitut
 * [Auto-judgements of grammaticality](survey)
 
 ## The project
-Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni.
+Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni [(bolpa)](https://github.com/bolpa).
 
 ### Methods
 The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by the their communicative situation, relying for a diamesic-oriented taxonomy.
