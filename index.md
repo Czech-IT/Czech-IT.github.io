@@ -3,6 +3,7 @@ title: Czech-IT! - A linguistic corpus of Czech learners acquiring Italian
 ---
 ## Introducing Czech-IT!
 Czech-IT! is a linguistic corpus of native Czech learners acquiring Italian language, composed by different kinds of communicative situations, in order to reveal a wide range of phenomena.
+
 Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints or from theoretical and general perspectives. 
 This corpus stands for comparative and contrastive analyses exhibited by linguistic patterns among languages during the acquisitional path.
 
