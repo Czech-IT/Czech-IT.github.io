@@ -13,11 +13,19 @@ title: Corpus-all
     {% if learner.learner-id == item.learner-id %}
       <p>ID: {{ learner.learner-id }}</p>
       <p>Age: {{ learner.age }}</p>
-      <p>Level (IT):  	{{ learner.It-level(oral-written) }} </p>
+      <p>Level (IT):  	{{ learner.it-level }} </p>
       <p>Education: {{ learner.education }} </p>
       <p>Languages: {{ learner.languages }} </p>
     {% endif %}
     {% endfor %}
+    <h3>Annotations</h3>
+    {% for annotated in site.data.annotations-dataset %}
+    {% if annotated.item-id == item.item-id %}
+      <p>Manual phenomena: {{ annotated.manual-phenomena }}</p>
+      <p>Auto tokenize: {{ annotated.auto-tokenize }}</p>
+      <p>Auto POS: {{ annotated.auto-pos }}</p>
+      <p>Notes: {{ annotated.notes }}</p>
+    {% endif %}
+    {% endfor %}
   </div>
-  <hr>
 {% endfor %}
