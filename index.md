@@ -18,7 +18,10 @@ Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https
 ### Methods
 The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by the their communicative situation, relying for a diamesic-oriented taxonomy.
 
-Full entries are available [here](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset.csv). 
+Full entries are available here:
+* [dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset.csv)
+* [dataset-annotations](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset-annotations.csv)
+* [learners](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/learners.csv)
 
 Data is automatically processed towards the usage of Python libraries, specifically oriented to language processing.
 
