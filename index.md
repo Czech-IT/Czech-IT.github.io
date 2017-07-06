@@ -12,12 +12,12 @@ The project is based on quantitative analyses of the dataset, which is constitut
 
 Select a subcorpus:
 
-| Subcorpus                                      | Entries |
-|------------------------------------------------|---------|
-| [Email communications](email)                  |         |
-| [Text messages (SMS, Chat)](text-message)      |         |
-| [Oral production](audio)                       |         |
-| [Survey](survey)                               |         |
+| Subcorpus                                      | Entries                             |
+|------------------------------------------------|-------------------------------------|
+| [Text messages (SMS, Chat)](text-message)      | <span class="mono">23</span>        |
+| [Email communications](email)                  | <span class="mono">6</span>         |
+| [Oral production](audio)                       | <span class="mono">2</span>         |
+| [Survey](survey)                               | <span class="mono">14</span>        |
 
 
 
