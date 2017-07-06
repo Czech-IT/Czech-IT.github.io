@@ -9,21 +9,21 @@
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_items = site.data.table | sort:'text' %}
+    {% assign sorted_items = site.data.tableset | sort:'text' %}
     {% for item in sorted_items %}
       {% if item.type == page.type %}
         <tr>
           {% if item.type == "audio" %}
             <td>  
               <audio controls>
-                <source src="{{ item.text }}" type="audio/mp3">
+                <source src="{{ item.content }}" type="audio/mp3">
                 Your browser does not support the audio element.
               </audio>
             </td>
           {% else %}
-          <td> {{ item. text }} </td>
+          <td> {{ item. content }} </td>
         {% endif %}
-          <td> {{ item.learner }} </td>
+          <td> {{ item.learner-id }} </td>
           <td> {{ item.item-id }} </td>
         </tr>
       {% endif %}
