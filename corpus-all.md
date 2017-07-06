@@ -23,10 +23,12 @@ title: Corpus-all
     <h3>Annotations</h3>
     {% for annotated in site.data.annotations-dataset %}
     {% if annotated.item-id == item.item-id %}
-      <p>Manual phenomena: {{ annotated.manual-phenomena }}</p>
-      <p>Auto tokenize: {{ annotated.auto-tokenize }}</p>
-      <p>Auto POS: {{ annotated.auto-pos }}</p>
-      <p>Notes: {{ annotated.notes }}</p>
+    <ul>
+      <li>Manual phenomena: {{ annotated.manual-phenomena }}</li>
+      <li>Auto tokenize: {{ annotated.auto-tokenize }}</li>
+      <li>Auto POS: {{ annotated.auto-pos }}</li>
+      <li>Notes: {{ annotated.notes }}</li>
+    </ul>
     {% endif %}
     {% endfor %}
   </div>
