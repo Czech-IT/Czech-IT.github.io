@@ -11,11 +11,13 @@ title: Corpus-all
     <h3>Learner</h3>
     {% for learner in site.data.learners %}
     {% if learner.learner-id == item.learner-id %}
-      <p>ID: {{ learner.learner-id }}</p>
-      <p>Age: {{ learner.age }}</p>
-      <p>Level (IT):  	{{ learner.it-level }} </p>
-      <p>Education: {{ learner.education }} </p>
-      <p>Languages: {{ learner.languages }} </p>
+    <ul>
+      <li>ID: {{ learner.learner-id }}</li>
+      <li>Age: {{ learner.age }}</li>
+      <li>Level (IT):  	{{ learner.it-level }} </li>
+      <li>Education: {{ learner.education }} </li>
+      <li>Languages: {{ learner.languages }} </li>
+    </ul>
     {% endif %}
     {% endfor %}
     <h3>Annotations</h3>
