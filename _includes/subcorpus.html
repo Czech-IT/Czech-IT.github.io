@@ -25,10 +25,10 @@
           {% else %}
           <td> {{ item.content }} </td>
         {% endif %}
-          <td> {{ item.learner-id }} </td>
+          <td><span class="mono"> {{ item.learner-id }} </span></td>
           <td> 
             <a href="{{ site.url }}/corpus-all#{{ item.item-id }}">
-              {{ item.item-id }} 
+              <span class="mono"> {{ item.item-id }} </span>
             </a>    
           </td>
         </tr>
