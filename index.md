@@ -8,7 +8,8 @@ This corpus stands for comparative and contrastive analyses exhibited by linguis
 
 ## Corpus
 The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles.
-Browse a subcorpus:
+
+Select a subcorpus:
 
 | Subcorpus                                      | Entries |
 |------------------------------------------------|---------|
