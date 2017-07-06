@@ -42,3 +42,6 @@ tbody tr:hover{
 .mono{     
     font-family: 'Source Code Pro', monospace;
 }
+table{
+      width:100%
+}
