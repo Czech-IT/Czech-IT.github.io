@@ -20,7 +20,7 @@ The corpus is organized in the form of a tabular file format (spreadsheet), in w
 
 Full entries are available here:
 * [The complete raw dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset.csv)
-* [An annotated version of the dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset-annotations.csv)
+* [An annotated version of the dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/annotations-dataset.csv)
 * [A table containing the informations of the learners](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/learners.csv)
 
 For the annotated version of the dataset, data is automatically processed towards the usage of Python libraries, specifically oriented to language processing, and manually marked for linguistic categories.
