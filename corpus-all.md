@@ -19,13 +19,7 @@ title: Corpus-all
     <ul>
       <li>ID: {{ learner.learner-id }}</li>
       <li>Age: {{ learner.age }}</li>
-      <li>Level (IT):  	
-      <ul>
-       {% for x in learner.it-level %} 
-       <li> XY : {{ x }} </li>
-        {% endfor %}
-      </ul>
-      </li>
+      <li>Level (IT):  {{ learner.it-level }} </li>
       <li>Education: {{ learner.education }} </li>
       <li>Languages: {{ learner.languages }} </li>
     </ul>
