@@ -1,4 +1,4 @@
-learner-id,name,It-level(oral-written),age,education,languages,notes
+learner-id,name,it-level,age,education,languages,notes
 L001,DP,"[B1,B1]",25-40,graduate,"[english, spanish]",
 L002,MS,"[C1,C1]",25-40,graduate,"[english, german]",
 L003,MN,"[A2,B1]",0-25,2nd cycle school,english,
