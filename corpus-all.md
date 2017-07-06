@@ -8,6 +8,11 @@ title: Corpus-all
     <h2>Item ID: {{ item.item-id }}</h2>
     <h3>Content</h3>
     <p>{{ item.content }}</p>
+    <h3>Informations</h3>
+    <ul>
+      <li>Type: {{ item.type }} </li>
+      <li>Date: {{ item.date }} </li> 
+    </ul>
     <h3>Learner</h3>
     {% for learner in site.data.learners %}
     {% if learner.learner-id == item.learner-id %}
