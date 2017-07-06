@@ -16,14 +16,14 @@ The project is based on quantitative analyses of the dataset, which is constitut
 Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni [(bolpa)](https://github.com/bolpa).
 
 ### Methods
-The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by the their communicative situation, relying for a diamesic-oriented taxonomy.
+The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by the their communicative situation, wich yields a diamesic-oriented taxonomy.
 
 Full entries are available here:
-* [dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset.csv)
-* [dataset-annotations](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset-annotations.csv)
-* [learners](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/learners.csv)
+* [The complete raw dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset.csv)
+* [An annotated version of the dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset-annotations.csv)
+* [A table containing the informations of the learners](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/learners.csv)
 
-Data is automatically processed towards the usage of Python libraries, specifically oriented to language processing.
+For the annotated version of the dataset, data is automatically processed towards the usage of Python libraries, specifically oriented to language processing, and manually marked for linguistic categories.
 
 ### Timeline
 The project starts from July, 2017 and does not have an upper limit of time, so please check the news to stay tuned.
