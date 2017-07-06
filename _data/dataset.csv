@@ -1,4 +1,4 @@
-item-id,learner-id,type,text,date,
+item-id,learner-id,type,content,date,
 I001,L001,text-message,"Sono vestiti vecchi 10 anni, quindi le uso per barca",3.7.2017,
 I002,L001,text-message,Chiamo il uomo della allergologia ,3.7.2017,
 I003,L001,text-message,Faccio i piani in my mind per mandare curricula ,3.7.2017,
