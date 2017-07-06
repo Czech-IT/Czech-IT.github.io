@@ -2,8 +2,8 @@
 title: Czech-IT! - A linguistic corpus of Czech learners acquiring Italian
 ---
 ## Introducing Czech-IT!
-Czech-IT! is a linguistic corpus of native Czech learners acquiring Italian language, composed by different kind of communicative situations, in order to can reveal a wide range of phenomena.
-Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints than from theoretical and general perspectives. 
+Czech-IT! is a linguistic corpus of native Czech learners acquiring Italian language, composed by different kinds of communicative situations, in order to reveal a wide range of phenomena.
+Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints or from theoretical and general perspectives. 
 This corpus stands for comparative and contrastive analyses exhibited by linguistic patterns among languages during the acquisitional path.
 
 ## Corpus
@@ -17,7 +17,7 @@ The project is based on quantitative analyses of the dataset, which is constitut
 Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni [(bolpa)](https://github.com/bolpa).
 
 ### Methods
-The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by the their communicative situation, wich yields a diamesic-oriented taxonomy.
+The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by their communicative situation, wich yields a diamesic-oriented taxonomy.
 
 Full entries are available here:
 * [The complete raw dataset](https://github.com/Czech-IT/Czech-IT.github.io/blob/master/_data/dataset.csv)
@@ -27,5 +27,5 @@ Full entries are available here:
 For the annotated version of the dataset, data is automatically processed towards the usage of Python libraries, specifically oriented to language processing, and manually marked for linguistic categories.
 
 ### Timeline
-The project starts from July, 2017 and does not have an upper limit of time, so please check the news to stay tuned.
+The project starts from July, 2017 and does not have a deadline, so please check the news to stay tuned.
 
