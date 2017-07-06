@@ -1,6 +1,7 @@
 
 <h1> {{ page.title }} </h1>
 <p>Click on the <b>Item ID</b> to open the detailed card of the item</p>
+<br>
 <table>
   <thead>
     <tr>
@@ -11,7 +12,7 @@
   </thead>
   <tbody>
     {% assign sorted_items = site.data.dataset | sort:'content' %}
-    {% for item in sorted_items %}
+    {% for item in sorted_items and if item.type == page.type %}
       {% if item.type == page.type %}
         <tr>
           {% if item.type == "audio" %}
