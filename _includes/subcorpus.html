@@ -9,7 +9,7 @@
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_items = site.data.dataset | sort:'text' %}
+    {% assign sorted_items = site.data.dataset | sort:'content' %}
     {% for item in sorted_items %}
       {% if item.type == page.type %}
         <tr>
