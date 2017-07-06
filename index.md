@@ -1,9 +1,10 @@
 ---
-title: CzechIT! - A linguistic corpus of Czech learners acquiring Italian
+title: Czech-IT! - A linguistic corpus of Czech learners acquiring Italian
 ---
-## Aims
+## Introducing Czech-IT!
+Czech-IT! is a linguistic corpus of native Czech learners acquiring Italian language, composed by different kind of communicative situations, in order to can reveal a wide range of phenomena.
 Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints than from theoretical and general perspectives. 
-This corpus stands for comparative and contrastive analyses exhibited among linguistic structures patterns among languages during the acquisitional path by the learner.
+This corpus stands for comparative and contrastive analyses exhibited by linguistic patterns among languages during the acquisitional path.
 
 ## Corpus
 The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles:
