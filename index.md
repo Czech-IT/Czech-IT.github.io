@@ -7,11 +7,17 @@ Second Language Acquisition (SLA) is a fertile field of research in linguistic s
 This corpus stands for comparative and contrastive analyses exhibited by linguistic patterns among languages during the acquisitional path.
 
 ## Corpus
-The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles:
-* [Email communications](email)
-* [Text messages (SMS, Chat)](text-message)
-* [Oral production](audio)
-* [Auto-judgements of grammaticality](survey)
+The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles.
+Browse a subcorpus:
+
+| Subcorpus                                      | Entries |
+|------------------------------------------------|---------|
+| [Email communications](email)                  |         |
+| [Text messages (SMS, Chat)](text-message)      |         |
+| [Oral production](audio)                       |         |
+| [Survey](survey)                               |         |
+
+
 
 ## The project
 Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni [(bolpa)](https://github.com/bolpa).
