@@ -1,20 +1,20 @@
 item-id,manual-phenomena,auto-tokenize,auto-pos,notes
-I001,"[“determiner usage”, “omitted”]",,,
-I002,"[“determiner usage”, “mistake”]",,,
-I003,"[“determiner usage”, “ipercorrected”, “omitted”]",,,Uso della linga inglese per sopperire alla macanza lessicale 
-I004,"[“determiner usage”, “omitted”, “omitted”]",,,
-I005,"[“determiner usage”, “omitted”]",,,
-I006,"[“determiner usage”, “omitted”]",,,
-I007,"[“determiner usage”, “ipercorrected”]",,,
-I008,"[“determiner usage”, “mistake”]",,,
-I009,"[“determiner usage”, “ipercorrected”]",,,
-I010,"[“determiner usage”, “mistake”]",,,
-I011,"[“determiner usage”, “omitted”]",,,
-I012,"[“determiner usage”, “omitted”]",,,Uso della linga inglese per sopperire alla macanza lessicale 
-I013,[“syntax”],,,calco dal ceco taky promi?
-I014,[“syntax”],,,calco dal ceco taky d?kuji/dÃ­ky
-I015,"[“determiner usage”, “mistake”]",,,
-I016,"[“determiner usage”, “omitted”]",,,
+I001,"[“determiner usage”, “omitted”]","“['Sono', 'vestiti', 'vecchi', '10', 'anni', ',', 'quindi', 'le', 'uso', 'per', 'barca']”",,
+I002,"[“determiner usage”, “mistake”]","“['Chiamo', 'il', 'uomo', 'della', 'allergologia']”",,
+I003,"[“determiner usage”, “ipercorrected”, “omitted”]","“['Faccio', 'i', 'piani', 'in', 'my', 'mind', 'per', 'mandare', 'curricula']”",,Uso della linga inglese per sopperire alla macanza lessicale 
+I004,"[“determiner usage”, “omitted”, “omitted”]","“['Devo', 'prendere', 'Beata', 'di', 'altra', 'città', 'quando', 'viene', 'con', 'autobus']”",,
+I005,"[“determiner usage”, “omitted”]","“['Facciamo', 'adesso', 'altro', 'piano', 'va', 'bene', '?']”",,
+I006,"[“determiner usage”, “omitted”]","“['Non', 'funziona', 'proprio', 'così', 'che', 'quando', 'sei', 'triste', 'puoi', 'scusarti', 'di', 'tutte', 'cose']”",,
+I007,"[“determiner usage”, “ipercorrected”]","“['Come', 'tu', 'hai', 'detto', 'al', 'tuo', 'padre', 'quando', 'ti', 'ha', 'chiesto']”",,
+I008,"[“determiner usage”, “mistake”]","“['Lo', 'so', 'che', 'non', 'era', 'bell', 'giorno']”",,
+I009,"[“determiner usage”, “ipercorrected”]","“['È', 'lo', 'stesso', 'nel', 'tutto', 'il', 'mondo']”",,
+I010,"[“determiner usage”, “mistake”]","“['Lo', 'primo', 'nella', 'rivista']”",,
+I011,"[“determiner usage”, “omitted”]","“['Guarda', 'chi', 'è', 'autore']”",,
+I012,"[“determiner usage”, “omitted”]","“['Sono', 'seduta', 'next', 'to', 'a', 'grande', 'ciccione']”",,Uso della linga inglese per sopperire alla macanza lessicale 
+I013,[“syntax”],"“['Anch’io', 'scusa']”",,calco dal ceco taky promi?
+I014,[“syntax”],"“['Anch’io', 'grazie']”",,calco dal ceco taky d?kuji/dÃ­ky
+I015,"[“determiner usage”, “mistake”]","“['Abbiamo', 'un', 'corso', 'interno', 'per', 'i', 'nostri', 'studenti', 'dell', '1.', 'anno']”",,
+I016,"[“determiner usage”, “omitted”]","“['Con', 'famiglia', 'festeggeremo', 'il', 'primo', 'fine', 'settimana', 'a', 'luglio']”",,
 I017,[“word order”],,,posizione dellâ€™ â€œancheâ€ anteposto al verbo
 I018,[“word order”],,,posizione dellâ€™ â€œancheâ€ anteposto al verbo
 I019,"[“determiner usage”, “omitted”]",,,
