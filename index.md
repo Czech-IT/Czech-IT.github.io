@@ -1,5 +1,6 @@
 ---
-title: Czech-IT! - A linguistic corpus of Czech learners acquiring Italian
+title: Czech-IT!
+description: Linguistic corpus of native Czech learners acquiring Italian language
 ---
 ## Introducing Czech-IT!
 Czech-IT! is a linguistic corpus of native Czech learners acquiring Italian language, composed by different kinds of communicative situations, in order to reveal a wide range of phenomena.
