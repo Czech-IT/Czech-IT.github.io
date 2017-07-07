@@ -33,8 +33,7 @@
   <footer class="backMatter">
     <main>
       <h2>{{ site.title }}</h2>
-      <p>{{ site.description }}</p>
-      {% include news.html %}
+      <p>{{ site.description }}</p>     
       <hr>
       <p>Return to the <a href="{{ site.url }}">homepage</a>.</p>
        
@@ -52,6 +51,7 @@
   </footer>
   <div class="colophon">
     <main>
+      {% include news.html %}
       <p style="line-height:3"><small>Hosted with ❤ by <a href="https://github.com" target="_blank">GitHub</a>.</small></p>  
     </main>
   </div>
