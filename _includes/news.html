@@ -4,16 +4,16 @@
 <table>
   <thead>
     <tr>
-      <th>Message</th>
       <th>Date</th>
+      <th>Message</th>
     </tr>
   </thead>
   <tbody>
     {% assign sorted_items = site.data.news| sort:'date' %}
-    {% for item in sorted_items %}
-        <tr>      
-          <td> {{ item.content }} </td>
+    {% for item in sorted_items reversed limit:3 %}
+        <tr>     
           <td><span class="mono"> {{ item.date }} </span></td>
+          <td> {{ item.content }} </td>
         </tr>
     {% endfor %}
   </tbody>
