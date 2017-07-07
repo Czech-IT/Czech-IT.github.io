@@ -9,7 +9,7 @@
     </tr>
   </thead>
   <tbody>
-    {% assign sorted_items = site.data.news| sort:'date' | order:'asc' %}
+    {% assign sorted_items = site.data.news reversed| sort:'date' %}
     {% for item in sorted_items limit:3 %}
         <tr>     
           <td><span class="mono"> {{ item.date }} </span></td>
