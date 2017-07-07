@@ -20,12 +20,6 @@ Select a subcorpus:
 | [Survey](survey)                               | <span class="mono">14</span>        |
 
 
-## Partners and sponsors
-
-If you are interested to become a partner or a sponsor of the project Czech-IT! please to fill the form [here](https://drive.google.com/open?id=12Oa7j5zeFsSEBfNJ7-YOR5ksud9_KfdQmyV_vRG5aSs).
-
-Thank you!
-
 ## The project
 Czech-IT! is a project actively mantained by Marco Petolicchio [(p-marco)](https://github.com/p-marco) and Marcello Bolpagni [(bolpa)](https://github.com/bolpa).
 
@@ -42,3 +36,9 @@ For the annotated version of the dataset, data is automatically processed toward
 ### Timeline
 The project starts from July, 2017 and does not have a deadline, so please check the news to stay tuned.
 
+
+## Partners and sponsors
+
+If you are interested to become a partner or a sponsor of the project Czech-IT! please to fill the form [here](https://drive.google.com/open?id=12Oa7j5zeFsSEBfNJ7-YOR5ksud9_KfdQmyV_vRG5aSs).
+
+Thank you!
