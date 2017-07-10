@@ -37,6 +37,13 @@ For the annotated version of the dataset, data is automatically processed toward
 ### Timeline
 The project starts from July, 2017 and does not have a deadline, so please check the news to stay tuned.
 
+### How to cite
+
+Czech-IT! is citable with the subsequent DOI:
+
+[![DOI](https://zenodo.org/badge/96129880.svg)](https://zenodo.org/badge/latestdoi/96129880)
+
+
 
 ## Partners and sponsors
 
