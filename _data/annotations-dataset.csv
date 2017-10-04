@@ -1,0 +1,67 @@
+item-id,manual-phenomena,auto-tokenize,auto-count-words,auto-pos,notes
+I001,"[“determiner usage”, “omitted”]","“['Sono', 'vestiti', 'vecchi', '10', 'anni', ',', 'quindi', 'le', 'uso', 'per', 'barca']”",10,,
+I002,"[“determiner usage”, “mistake”]","“['Chiamo', 'il', 'uomo', 'della', 'allergologia']”",5,,
+I003,"[“determiner usage”, “ipercorrected”, “omitted”]","“['Faccio', 'i', 'piani', 'in', 'my', 'mind', 'per', 'mandare', 'curricula']”",9,,Uso della linga inglese per sopperire alla macanza lessicale 
+I004,"[“determiner usage”, “omitted”, “omitted”]","“['Devo', 'prendere', 'NP', 'di', 'altra', 'città', 'quando', 'viene', 'con', 'autobus']”",10,,
+I005,"[“determiner usage”, “omitted”]","“['Facciamo', 'adesso', 'altro', 'piano', 'va', 'bene', '?']”",6,,
+I006,"[“determiner usage”, “omitted”]","“['Non', 'funziona', 'proprio', 'così', 'che', 'quando', 'sei', 'triste', 'puoi', 'scusarti', 'di', 'tutte', 'cose']”",13,,
+I007,"[“determiner usage”, “ipercorrected”]","“['Come', 'tu', 'hai', 'detto', 'al', 'tuo', 'padre', 'quando', 'ti', 'ha', 'chiesto']”",11,,
+I008,"[“determiner usage”, “mistake”]","“['Lo', 'so', 'che', 'non', 'era', 'bell', 'giorno']”",7,,
+I009,"[“determiner usage”, “ipercorrected”]","“['È', 'lo', 'stesso', 'nel', 'tutto', 'il', 'mondo']”",7,,
+I010,"[“determiner usage”, “mistake”]","“['Lo', 'primo', 'nella', 'rivista']”",4,,
+I011,"[“determiner usage”, “omitted”]","“['Guarda', 'chi', 'è', 'autore']”",4,,
+I012,"[“determiner usage”, “omitted”]","“['Sono', 'seduta', 'next', 'to', 'a', 'grande', 'ciccione']”",7,,Uso della linga inglese per sopperire alla macanza lessicale 
+I013,[“syntax”],"“['Anch’io', 'scusa']”",3,,calco dal ceco taky promi?
+I014,[“syntax”],"“['Anch’io', 'grazie']”",3,,calco dal ceco taky d?kuji/dÃ­ky
+I015,"[“determiner usage”, “mistake”]","“['Abbiamo', 'un', 'corso', 'interno', 'per', 'i', 'nostri', 'studenti', 'dell', '1.', 'anno']”",11,,
+I016,"[“determiner usage”, “omitted”]","“['Con', 'famiglia', 'festeggeremo', 'il', 'primo', 'fine', 'settimana', 'a', 'luglio']”",9,,
+I017,[“word order”],"“['Anche', 'mi', 'piace', 'che', 'vivo', 'da', 'sola']”",7,,posizione dellâ€™ â€œancheâ€ anteposto al verbo
+I018,[“word order”],"“['Ma', 'io', 'già', 'anche', 'parlo', '!']”",5,,posizione dellâ€™ â€œancheâ€ anteposto al verbo
+I019,"[“determiner usage”, “omitted”]","“['Per', 'ragazzo', 'non', 'è', 'tanto', 'triste']”",6,,
+I020,"[“determiner usage”, “omitted”]","“['Mia', 'amica', 'mi', 'aiuta']”",4,,
+I021,"[“determiner usage”, “ipercorrected”, “mistake”]","“['Vado', 'al', 'Roma', 'per', '2', 'settimane']”",6,,
+I022,"[“determiner usage”, “ipercorrected”]","“['Non', 'ho', 'gli', 'amici', 'italiani']”",5,,
+I023,"[“omitted”, ”mistake, “ipercorrected”]","“['Mia', 'insegnante', 'NP', 'ha', 'il', 'coniuge', 'e', 'lui', 'è', 'l’italiano']”",11,,
+I024,"[“verbal morphology”, “tu-lei”]","“['Scusi', ',', 'ma', 'non', 'posso', 'venire', 'a', 'scuola', 'oggi', 'e', 'domani', ',', 'perchè', 'sono', 'malata', 'e', 'ho', 'la', 'febbre']”",17,,"Frase corretta, da confrontare diacronicamente con le due successive (scorrette)"
+I025,"[“verbal morphology”, “tu-lei”]","“['Scusarmi', 'ma', 'domani', 'non', 'posso', 'venire', 'per', 'lezione', '``', 'Italština', 'v', 'písni', ""''"", 'perchè', 'io', 'devo', 'andare', 'dal', 'medico']”",18,,
+I026,"[“verbal morphology”, “tu-lei”]","“['Scusarmi', ',', 'ma', 'io', 'non', 'posso', 'venire', 'questa', 'settimana', ',', 'perché', 'sono', 'malata', '.']”",11,,
+I027,"[“verbal morphology”, “tu-lei”]","“['Scusa', 'mi', 'per', 'il', 'disturbo', 'ma', 'devo', 'chiederti', 'un', 'favore']”",10,,
+I028,"[“verbal morphology”, “tu-lei”]","“['Ciao', 'NP', ',', 'Mi', 'scusi', 'per', 'non', 'venire', 'alle', 'lezioni', 'di', 'questa', 'settimana']”",12,,
+I029,[“word order”],"“['Io', 'sempre', 'voglio', 'fare', 'tutto', 'molto', 'precisamente']”",7,,posizione del â€œsempreâ€ anteposto al verbo
+I030,,,0,,
+I031,,,0,,
+I032,[“syntax”],"“['Mi', 'piace', 'a', 'mi', 'serve', 'per', 'lavoro']”",7,,lapsus e utilizzo della congiunzione ceca a
+I033,[“word order”],"“['Molto', 'mi', 'piace']”",3,,
+I034,,"“['Ho', 'iniziato', 'a', 'studiare', ""l'italiano"", 'soprattutto', 'per', 'la', 'bellezza', 'della', 'lingua']”",12,,
+I035,[“word order”],"“[""l'italiano"", ',', 'lo', 'studio', 'per', 'diletto']”",6,,dislocazione a sinistra
+I036,,"“['Mi', 'piace', 'per', 'la', 'sua', 'armonia', 'nel', 'parlare', ',', 'nelle', 'sue', 'espressioni', '.', 'Generalmente', 'mi', 'piace', ""l'Italia"", 'con', 'tutto', 'quello', 'che', 'offre', 'compresa', 'la', 'lingua']”",24,,
+I037,"[“verbal morphology”, “omitted”]","“['Perché', 'NP']”",2,,
+I038,,"“['Perche', 'mi', 'piace']”",3,,
+I039,"[“semantics”, “lexicon”]","“['Ho', 'conosciuto', 'in', 'treno', 'alcuni', 'italiani', ',', 'ragazzi', 'e', 'ragazze', 'della', 'mia', 'età', '.', 'Per', 'me', 'era', ""un'esperienza"", 'nuova', '.', 'Prima', 'di', 'quel', 'momento', 'non', 'avevo', 'nessuna', 'possibilità', 'di', 'parlare', 'con', 'un', 'italiano', '.', 'Davanti', 'a', 'me', 'erano', 'due', 'vie', ',', 'o', 'profondare', 'il', 'mio', 'inglese', 'o', 'imparare', 'qualcosa', 'di', 'nuovo', '.', 'Ho', 'scelto', 'la', 'seconda', 'via', '.', 'Non', 'ero', 'spiacente', 'mai']”",55,,
+I040,,"“['Perché', ""l'italiano"", 'è', 'la', 'lingua', 'più', 'bella', 'del', 'mondo']”",10,,
+I041,,"“['Mi', 'piace', 'la', 'lingua', 'e', 'anche', 'l', 'Italia']”",8,,
+I042,"[“semantics”, “lexicon”]","“['Veramente', 'non', 'volevo', 'studiare', ""l'italiano"", '.', 'Ma', 'volevo', 'aiutare', 'una', 'mia', 'amica', 'a', 'superare', 'il', 'test', 'di', 'ammissione', ',', 'quindi', ""l'ho"", 'accompagnata', 'e', 'ho', 'compilato', 'il', 'test', 'al', 'posto', 'suo', '.', 'Intanto', 'ho', 'compilato', 'anche', 'il', 'mio', 'e', 'sono', 'stata', 'assunta', '.', 'Cosi', 'sono', 'rimasta']”",43,,
+I043,,"“['Ero', 'costretta', '.', 'Mi', 'sono', 'trasferita', 'in', 'Italia', 'e', 'ci', 'ho', 'vissuto']”",27,,
+I044,"[“determiner usage”, “omitted”]","“['mi', 'piace', 'la', 'lingua', 'italiana', ',', 'la', 'cucina', ',', 'paese', ',', 'le', 'montagne', ',', 'Roma', ',', 'Toscana', ',', 'eccetera']”",13,,da segnalare anche lo zeugma nell'uso del verbo
+I045,,"“['Perché', 'è', 'una', 'lingua', 'bellissima', '!']”",5,,
+I046,[“verbal morphology”],"“['ho', 'voluto', 'aiutarti', ',', 'ma', 'il', 'link', 'che', 'ci', 'hai', 'mandato', 'non', 'mi', 'va', 'aprire']”",14,,calco dal ceco nejde mi...che utlizza il verbo andare in luogo di riuscire
+I047,[“word order”],"['sulla', 'pagina', 'si', 'scrive', 'che', 'non', 'è', 'possibile', 'farlo', 'più']",10,,Posposizione estrema di più
+I048,[“syntax”],"['Sei', 'in', 'italia', 'o', 'in', 'olomouc', '?']",6,,Il complemento di stato in luogo in ceco e in inglese non è marcato secondo la città o nazione
+I049,,,0,,
+I050,,,0,,
+I051,,"“['Buongiorno', '!', 'Vorrei', 'prenotare', 'due', 'camere', 'per', '4', 'persone', '-', '2', 'adulti', 'e', '2', 'bambini', 'dalle', '24', 'Agosto', 'a', '28', 'Agosto', '.', 'E', 'possibile', 'inviarmi', 'una', 'offerta', '?', 'Grazie']”",25,,
+I052,,"“['Buon', 'giorno', ',', 'vogliamo', 'prenotare', 'un', 'appartamento', 'nel', 'vostro', 'albergo', 'Vincenzo', 'per', 'due', 'notti', 'con', 'la', 'collazione', ',', 'dal', '9', '.', '8.', 'al', '11', '.', '8', '.', 'Siamo', 'quattro', 'persone', ',', 'due', 'adulti', 'e', 'due', 'bambini', '.', 'Preferiamo', 'una', 'stanza', 'con', 'vista', 'mare', '.', 'Grazie', ',', 'cordiali', 'saluti']”",39,,
+I053,,"“['Buongiorno', ',', 'voglio', 'prenotare', 'una', 'camera', 'nel', 'vostro', 'albergo', 'per', '4', 'persone', '.', 'Siamo', 'due', 'adulti', 'e', 'due', 'bambini', ',', 'vogliamo', 'venire', 'in', 'agosto', 'dal', '18', '.', '08.', 'al', '25', '.', '08', '.', 'Ci', 'basta', 'la', 'camera', 'con', 'il', 'bagno', '.', 'Compresa', 'la', 'prima', 'colazione', '.', 'Grazie']”",39,,
+I054,,"“['Spettabili', 'signori', ',', 'vorrei', 'prenotare', 'una', 'suite', 'a', 'due', 'camere', 'con', 'accessori', 'per', 'una', 'settimana', 'dal', '21', 'agosto', 'fino', 'al', '27', 'agosto', '2017', 'per', 'due', 'adulti', 'e', 'due', 'bambini', 'di', '10', 'e', '11', 'anni', '.', 'Se', 'fosse', 'possibile', 'senza', 'prima', 'colazione', '.', 'Preferiamo', 'un', 'posto', 'tranquillo', ',', 'la', 'bella', 'vista', 'non', 'è', 'necessaria', '.', 'Vorremo', 'venire', 'la', 'sera', 'verso', 'le', '23', ',', 'se', 'sarà', 'possibile', '?', 'In', 'attesa', 'di', 'una', 'vostra', 'risposta', '.', 'Cordiali', 'saluti']”",67,,
+I055,,"“['Gentile', 'hotel', 'Europa', ',', 'vorrei', 'chiedere', 'la', 'disponibilità', 'delle', 'camere', 'nel', 'Vostro', 'albergo', 'nella', 'prima', 'metà', 'di', 'agosto', '.', 'Siamo', 'una', 'famiglia', 'con', 'due', 'bambini', 'di', '3', 'e', '8', 'anni', ',', 'quindi', '2', 'adulti', 'e', '2', 'bambini', 'e', 'cerchiamo', 'una', 'camera', 'doppia', 'con', 'un', 'letto', 'matrimoniale', 'e', 'un', 'letto', 'supplementare', ',', 'possibilmente', 'con', 'mezza', 'pensione', 'e', 'parcheggio', '.', 'Chiedo', 'gentilmente', ""un'offerta"", 'prezzi', 'per', 'il', 'periodo', 'richiesto', '.', 'Vorremo', 'soggiornare', 'da', 'Voi', 'una', 'settimana', '.', 'Grazie', '.', 'Cordiali', 'saluti']”",70,,
+I056,,"“['Ciao', '!', 'Devo', 'uscire', 'del', 'mio', 'cancello', '.', 'Per', 'favore', ',', 'poi', 'parcheggiare', 'a', 'posto', 'libero', '?', 'grazie']”",14,,
+I057,,"“['Ciao', ',', 'grazie', 'per', 'il', 'regalo', '!', 'Non', 'vedo', ""l'ora"", 'di', 'provarla', '!', 'E', 'dove', 'hai', 'lasciato', 'le', 'chiavi', '?']”",16,,
+I058,,"“['Scusi', ',', 'davanti', 'alla', 'Sua', 'macchina', 'c´e', 'nostro', 'cancello', '.', 'Perfavore', ',', 'sposta', 'la', 'macchina', 'su', 'altro', 'posto', ',', 'vogliamo', 'che', 'questo', 'posto', 'resta', 'libero', '.', 'Grazie']”",22,,
+I059,,"“['Buon', 'giorno', ',', 'mi', 'dispiace', 'forse', 'Lei', 'non', 'si', 'è', 'accorto', 'che', 'qui', 'si', 'trova', 'un', 'ingresso', 'nel', 'mio', 'giardino', '.', 'La', 'prego', 'di', 'spostare', 'la', 'Sua', 'macchina', '.', 'Se', 'non', 'lo', 'farà', 'fino', 'al', 'sabato', 'di', 'questa', 'settimana', ',', 'chiamerò', 'la', 'polizia', '!', 'La', 'prossima', 'volta', 'sia', 'più', 'attento', '!', 'Sono', 'davvero', 'arrabbiato', '!']”",48,,
+I060,,"“['Gentile', 'conducente', ',', 'La', 'prego', 'di', 'non', 'parcheggiare', 'la', 'macchina', ""d'avanti"", 'al', 'cancello', 'altrimenti', 'siamo', 'forzati', 'di', 'trainarla']”",17,,
+I061,,"“['Ciao', 'cara', ',', 'sei', 'libera', 'questa', 'sera', '?', 'Possiamo', 'avere', 'una', 'cena', 'insieme', '.', 'Fammi', 'sapere.ciao', 'NP', '.']”",14,,
+I062,,"“['Ciao', 'cara', ',', 'andiamo', 'a', 'cena', 'stasera', '?', 'Pago', 'io', ':', ')']”",8,,
+I063,,"“['Ciao', 'cara', 'NP', ',', 'sei', 'libera', 'stasera', '?', 'Ti', 'voglio', 'invitare', 'per', 'la', 'cena', ',', 'é', 'passato', 'lungo', 'tempo', 'che', 'ti', 'non', 'ho', 'visto', '.', 'Se', 'sei', 'd´accordo', ',', 'mi', 'fai', 'sapere', 'piu', 'presto', 'possibile', '.', 'Non', 'vedo', 'l´ora', '...']”",34,,
+I064,,"“['Ciao', 'NP', ',', 'è', 'passato', 'un`anno', 'che', 'non', 'ci', 'siamo', 'viste', '.', 'Allora', 'a', 'luglio', 'hai', 'i', 'tuoi', 'bambini', 'ugualmente', 'in', 'campagna', 'dai', 'genitori', 'e', 'anch`io', 'sono', 'libera', '.', 'Ti', 'invito', 'per', 'la', 'cena', 'il', 'giovedì', 'prossimo', ',', 'alle', 'sei', 'di', 'sera', '.', 'Ho', 'tanto', 'da', 'raccontarti', '!', 'Ti', 'va', 'bene', 'così', '?', 'A', 'presto', '!']”",48,,
+I065,,"“['Ciao', 'carissima', ',', 'vorrei', 'cenare', 'con', 'te', 'stasera', ',', 'che', 'ne', 'dici', 'di', 'un', 'invito', '?']”",13,,
+

@@ -1,0 +1,9 @@
+title: Czech-IT!
+description: Linguistic corpus of native Czech learners acquiring Italian language
+github:
+  - is_project_page: true
+show_downloads: true
+github_username: Czech-IT
+copyright: 2017 | This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+gems: 
+  - jekyll-feed

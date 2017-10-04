@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title> {{ site.title }} | {{ page.title }} </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ page.description }}"> 
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,700' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet"> 
+    <link href='{{ site.url }}/assets/css/styles.css' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+  <header class="header-page frontMatter">
+    <section class="page-header">
+      <main>
+        <h1 class="project-name">{{ site.title }}</h1>
+        <h2 class="project-tagline">{{ site.description }}</h2>
+        <!--
+        <a href="#" class="btn">View on GitHub</a>
+        <a href="#" class="btn">Download .zip</a>
+        <a href="#" class="btn">Download .tar.gz</a>
+        -->
+      </main>
+    </section>
+  </header>
+  
+  <section class="main-content">
+      <main>
+        {{ content }}
+    </main>
+  </section>
+  
+  <footer class="backMatter">
+    <main>
+      <h2>{{ site.title }}</h2>
+      <p>{{ site.description }}</p>     
+      <hr>
+      <p>Return to the <a href="{{ site.url }}">homepage</a>.</p>
+       
+      <!-- tofix -->
+      <p> Browse the corpus:
+        <span><a href="{{ site.url }}/email">Email messages</a></span> /
+        <span><a href="{{ site.url }}/text-message">Text messages</a></span> /
+        <span><a href="{{ site.url }}/audio">Oral production</a></span> /
+        <span><a href="{{ site.url }}/survey">Survey</a></span>
+      </p>
+      <br>
+            <p> Browse the corpus:
+        <span><a href="{{ site.url }}/cookie-policy">Cookie Policy</a></span> /
+        <span><a href="{{ site.url }}/disclaimer">Disclaimer</a></span> /
+        <span><a href="{{ site.url }}/credits">Credits</a></span> 
+      </p>
+      <hr>    
+      <p>{{ site.copyright }}</p>
+    </main>
+  </footer>
+  <div class="colophon">
+    <main>
+      {% include news.html %}
+      <p style="line-height:3">You are viewing the 5 most recent entries. Click <a href="/news-all">here</a> for the full list.</p>
+      <p style="line-height:3"><small>Hosted with ❤ by <a href="https://github.com/czech-it/czech-it.github.io" target="_blank">GitHub</a>.</small></p> 
+      <p style="line-height:3"><small>Read the Feeds: <a href="https://github.com/czech-it/czech-it.github.io/commits/master.atom" target="_blank">gh Commits</a> | <a href="/feed"> Feeds from Home</a>.</small></p> 
+    </main>
+  </div>
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js" async></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#d7d7d7",
+      "text": "#313131"
+    },
+    "button": {
+      "background": "#4caf50",
+      "text": "#d7d7d7"
+    }
+  },
+  "position": "top",
+  "static": true,
+  "content": {
+    "href": "https://czech-it.github.io/cookie-policy"
+  }
+})});
+</script>
+  </body>
+</html>

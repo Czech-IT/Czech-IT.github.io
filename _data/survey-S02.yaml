@@ -1,0 +1,34 @@
+survey: 
+  item-id: S02
+  date : 2017-07-18
+  questions: 
+   1:
+    title: "Prenotazione"
+    text: "Prenota un albergo a Venezia per le tue vacanze ad agosto: siete 4 persone (due adulti e due bambini)"
+   2:
+    title: "Parcheggio"
+    text: "Qualcuno ha parcheggiato la macchina davanti al tuo cancello: lasciagli un biglietto sul finestrino per chiedergli di spostarla" 
+   3:
+    title: "Invito"
+    text: "Manda un sms per invitare una tua amica fuori a cena"
+  answers:
+   L003:
+    1: I051
+    2: I056
+    3: I061
+   L002:
+    1: I052
+    2: I057
+    3: I062
+   L024:
+    1: I053
+    2: I058
+    3: I063
+   L007:
+    1: I054
+    2: I059
+    3: I064
+   L026:
+    1: I055
+    2: I060
+    3: I065
