@@ -35,16 +35,16 @@ layout: none
             <a class="btn btn-lg btn-secondary" data-toggle="modal" href="#doc_modal_download">Download Material</a>
             <a class="btn btn-lg btn-light" href="/assets/css/material/docs/4.0/getting-started/introduction/">Documentation</a>
           </p>
-          <p class="text-white-hint typography-caption">Currently v4.0.0-beta
-            <br>(based on Bootstrap v4.0.0-beta)</p>
+          <!--<p class="text-white-hint typography-caption">Currently v4.0.0-beta
+            <br>(based on Bootstrap v4.0.0-beta)</p>-->
           <hr>
           <p class="text-right">
-            <a class="btn btn-outline-light btn-sm" href="https://github.com/Daemonite/material" target="_blank">
+            <a class="btn btn-outline-light btn-sm" href="https://github.com/Czech-IT/Czech-IT.github.io" target="_blank">
               <i class="material-icons mr-sm">code</i>Fork me on GitHub
             </a>
-            <a class="btn btn-outline-light btn-sm" href="http://www.daemon.com.au/" target="_blank">
+           <!--<a class="btn btn-outline-light btn-sm" href="http://www.daemon.com.au/" target="_blank">
               <i class="material-icons mr-sm text-danger">favorite</i>Made by Daemon
-            </a>
+            </a>-->
           </p>
         </div>
       </div>
@@ -86,18 +86,7 @@ layout: none
           <div class="mb-xl">
             <h2 class="text-primary">Introduction</h2>
             <p class="typography-subheading">
-              The basic idea behind this project is to combine the front-end technology of the popular
-              <a href="https://getbootstrap.com/" target="_blank">Bootstrap
-              <sup>
-                <i class="material-icons material-icons-inline">open_in_new</i>
-              </sup>
-            </a> framework with the visual language of
-              <a href="https://material.google.com/" target="_blank">
-              Google Material Design
-              <sup>
-                <i class="material-icons material-icons-inline">open_in_new</i>
-              </sup>
-            </a>.
+              Czech-IT! is an open-source and open-data linguistic corpus of native Czech learners acquiring Italian language, composed by different kinds of communicative situations, in order to reveal a wide range of phenomena.
             </p>
           </div>
           <div class="blockquote mb-xl">
@@ -106,7 +95,10 @@ layout: none
               <a href="#doc_index_content_goals">Goals</a>
             </p>
             <p>
-              <a href="#doc_index_content_principles">Principles</a>
+              <a href="#doc_index_content_corpus">Corpus</a>
+            </p>
+             <p>
+              <a href="#doc_index_content_project">Project</a>
             </p>
             <p>
               <a href="#doc_index_content_roadmap">Roadmap</a>
@@ -117,28 +109,30 @@ layout: none
             <div class="row">
               <div class="col-md-6 mt-lg">
                 <h4 class="text-secondary typography-subheading">Primary</h4>
-                <p>The primary goal of this project is to give all Bootstrap components and elements a Google Material Design look, so it allows web developers to continue using the exact same Bootstrap HTML markup they are familiar with, but presents them a final outcome that is in line with the principles and specifics of Google Material Design.</p>
+                <p>The primary goal of this project is to give an interrogable and searchable corpus in the field of <strong>Second Language Acquisition</strong> studies.</p>
+                <p>A strong separation between the data and the analysis of the data can result in a transparent way to research and to testify the hypotheses from different perspectives and theoretical frameworks.</p>
               </div>
               <div class="col-md-6 mt-lg">
                 <h4 class="text-secondary typography-subheading">Secondary</h4>
-                <p>A secondary goal of this project is to add support for some unique Google Material Design components such as floating buttons and labels, pickers, and steppers, to name a few, which cannot be achieved by transforming existing Bootstrap components.</p>
-                <p>Because these components will require additional markup (some may require additional JavaScript), they will be documented separately in Material's documentation (work-in-progress).</p>
+                <p>Second Language Acquisition (SLA) is a fertile field of research in linguistic studies, either by applied and empirical standpoints or from theoretical and general perspectives. </p>
+                <p>This corpus stands for comparative and contrastive analyses exhibited by linguistic patterns among languages during the acquisitional path.</p>
+                <!--<p>The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles.</p>-->
               </div>
             </div>
           </div>
-          <div class="mb-xl" id="doc_index_content_principles">
-            <h3 class="text-primary">Principles</h3>
+          <div class="mb-xl" id="doc_index_content_corpus">
+            <h3 class="text-primary">Corpus</h3>
             <div class="row">
               <div class="col-md-6 mt-lg">
-                <h4 class="text-secondary typography-subheading">CSS &amp; HTML</h4>
-                <p>If a Bootstrap component has an exact match in Google Material Design, this project will style this Bootstrap component based on the specifications laid out in Google Material Design Guidelines. For example, Bootstrap's <code>button</code> = Google Material Design's <code>button</code>.</p>
-                <p>If a Bootstrap component lacks an exact match in Google Material Design, the specifications of a closest matching component in Google Material Design Guidelines will be used to style this Bootstrap component. For example, Bootstrap's <code>navbar</code> = Google Material Design's <code>toolbar</code>.</p>
-                <p>If a Bootstrap component lacks completely a related counterpart in Google Material Design, this project will style this component based on our own iteration of Google Material Design Guidelines. For example, Bootstrap's button group, jumbotron and pagination, etc.</p>
+                <h4 class="text-secondary typography-subheading">Organization</h4>
+                <p> The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles.</p>
               </div>
               <div class="col-md-6 mt-lg">
-                <h4 class="text-secondary typography-subheading">JavaScript</h4>
-                <p>No modification has been made to Bootstrap's JavaScript. It is safe to use Bootstrap's JavaScript as it is.</p>
-                <p>However, in order to achieve some unique Material look such as floating labels and waves, Material includes a handful of additional JavaScript to help bring some of the components to life.</p>
+                <h4 class="text-secondary typography-subheading">Sociolinguistics</h4>
+                <p>The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by their communicative situation, wich yields a diamesic-oriented taxonomy.</p>
+                <h4 class="text-secondary typography-subheading">Computational analyses</h4>
+                <p>Computational analyses as tokenization, POS-tagging, word counting are provided in order to result in a fully queryable corpus. The data can be queried also for some fields of learners' knowledges.
+                </p>
               </div>
             </div>
           </div>
