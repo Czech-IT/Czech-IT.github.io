@@ -23,7 +23,7 @@ layout: none
 </head>
 <body class="doc-body">
   <header class="navbar navbar-dark toolbar-waterfall doc-navbar" id="doc_navbar">
-    <span class="navbar-brand doc-navbar-logo">M</span>
+    <span class="navbar-brand doc-navbar-logo">C</span>
   </header>
   <div class="jumbotron jumbotron-fluid mb-xl text-white doc-jumbotron" id="doc_index_jumbotron" style="background:#227799">
     <div class="container">
