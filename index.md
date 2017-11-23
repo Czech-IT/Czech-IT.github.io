@@ -50,7 +50,7 @@ layout: none
       </div>
     </div>
   </div>
-  <div aria-hidden="true" aria-labelledby="doc_modal_download_label" class="modal fade" id="doc_modal_download" role="dialog" tabindex="-1">
+  <!--<div aria-hidden="true" aria-labelledby="doc_modal_download_label" class="modal fade" id="doc_modal_download" role="dialog" tabindex="-1">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
@@ -78,7 +78,7 @@ layout: none
         </div>
       </div>
     </div>
-  </div>
+  </div>-->
   <main class="doc-main" id="doc_main">
     <div class="container">
       <div class="row justify-content-center">
@@ -126,6 +126,9 @@ layout: none
               <div class="col-md-6 mt-lg">
                 <h4 class="text-secondary typography-subheading">Organization</h4>
                 <p> The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles.</p>
+                <p>
+            <a class="btn btn-lg btn-secondary" data-toggle="modal" href="#doc_modal_download">View the Corpus</a>
+          </p>
               </div>
               <div class="col-md-6 mt-lg">
                 <h4 class="text-secondary typography-subheading">Sociolinguistics</h4>
@@ -136,20 +139,47 @@ layout: none
               </div>
             </div>
           </div>
+          <div class="mb-xl" id="doc_index_content_project">
+            <h3 class="text-primary">Project</h3>
+            <div class="row">
+            <div class="col-md-6 mt-lg">
+                <h4 class="text-secondary typography-subheading">Research team</h4>
+                <p>
+                	<ul class="list-style">
+                	<li><strong class="text-primary">Marco Petolicchio</strong> <br>
+                	Computational analyses, digital strategies<br>
+                	Palacky University, Olomouc
+                	</li>
+                	<li><strong class="text-primary">Marcello Bolpagni</strong> <br>
+                	Data acquisition and policies<br>
+                	Sleska University, Opava
+                	</li>
+                	</ul>
+                </p>
+              </div>
+              <div class="col-md-6 mt-lg">
+                <h4 class="text-secondary typography-subheading">Cite the project</h4>
+                <p>Czech-IT! is citable with the subsequent DOI: </p>
+                <p>
+            <a class="btn btn-lg btn-secondary" data-toggle="modal" href="https://zenodo.org/badge/latestdoi/96205789">DOI: https://zenodo.org/badge/96205789</a>
+          </p>
+              </div>             
+            </div>
+          </div>
           <div class="mb-xl" id="doc_index_content_roadmap">
             <h3 class="text-primary">Roadmap</h3>
             <div class="row">
               <div class="col-md-4 mt-lg">
                 <h4 class="text-secondary typography-subheading">Near-term</h4>
-                <p>Bug fixes and updates alongside Bootstrap 4's continuous releases.</p>
+                <p>Acquire data and insert learners in the dataset in a coherent way.</p>
               </div>
               <div class="col-md-4 mt-lg">
                 <h4 class="text-secondary typography-subheading">Mid-term</h4>
-                <p>Add missing support for some Google Material Design components (e.g. snackbars).</p>
+                <p>Obtain automated informations about the categorial status of the elements in the sentences in order to provide a quantitative analysis.</p>
               </div>
               <div class="col-md-4 mt-lg">
                 <h4 class="text-secondary typography-subheading">Long-term</h4>
-                <p>Rewrite all JavaScript plugins in ES6 to take advantage of the newest JavaScript enhancements.</p>
+                <p>Result in a quantitative way to display the corpus and provide statistical informations about the learning path in function of learners and language abilities.</p>
               </div>
             </div>
           </div>
