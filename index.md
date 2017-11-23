@@ -1,6 +1,7 @@
 ---
 title: Introducing Czech-IT!
 description: Linguistic corpus of native Czech learners acquiring Italian language
+layout: none
 ---
 
 <!DOCTYPE html>
