@@ -167,7 +167,7 @@ layout: none
                 	</li>
                 	<li><strong class="text-primary">Marcello Bolpagni</strong> <br>
                 	Data acquisition and policies<br>
-                	Sleska University, Opava
+                	Silesian University, Opava
                 	</li>
                 	</ul>
                 </p>

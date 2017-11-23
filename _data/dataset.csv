@@ -61,20 +61,34 @@ I063,L024,survey-message,"Ciao cara NP, sei libera stasera? Ti voglio invitare p
 I064,L007,survey-message,"Ciao NP, è passato un`anno che non ci siamo viste. Allora a luglio hai i tuoi bambini ugualmente in campagna dai genitori e anch`io sono libera. Ti invito per la cena il giovedì prossimo, alle sei di sera. Ho tanto da raccontarti! Ti va bene così? A presto!",17-lug-2017,,,,,
 I065,L026,survey-message,"Ciao carissima, vorrei cenare con te stasera, che ne dici di un invito?",17-lug-2017,,,,,
 I066,L027,email,Ci vedremo domani,2-ott-2017,[“verbal morphology”],"['Ci', 'vedremo', 'domani']",3,,morfologia verbale: uvidime ceco tradotto col futuro italiano
-I067,L028,email,penso che sia inutile di presentarmi ancora,2-ott-2017,[“verbal morphology”],"['penso', 'che', 'sia', 'inutile', 'di', 'presentarmi', 'ancora']",7,,ipercorrettismo
-I068,L028,email,"lavoro come ""receptionist"" qui a Praga a un albergo e anche come una barista",2-ott-2017,"[“determiner usage”, “ipercorrected”]","lavoro come ""receptionist"" qui a Praga a un albergo e anche come una barista",16,,ipercorrettismo nell'uso dell'articolo indeterminativo
-I069,L029,email,Spero di incontrarLa personale,2-ott-2017,[“noun morphology”],"['Spero', 'di', 'incontrarLa', 'personale']",4,,equivoco tra forma aggettivale e avverbiale
-I070,L030,email,Io lavoro come l´insegnante di inglese,2-ott-2017,"[“determiner usage”, “ipercorrected”]","['Io', 'lavoro', 'come', ""l'insegnante"", 'di', 'inglese']",6,,ipercorrettismo nell'uso dell'articolo determinativo
-I071,L030,email,"Perche mi piacciono le lingue straniere, ho deciso di imparare l´italiano",2-ott-2017,[“syntax”],"['Perche', 'mi', 'piacciono', 'le', 'lingue', 'straniere', ',', 'ho', 'deciso', 'di', 'imparare', ""l'italiano""]",11,,uso del perché italiano in funzione di siccome a inizio di frase sul calco del ceco proto.
-I072,L031,email,Spero che mi imparó presto,2-ott-2017,[“syntax”],"['Spero', 'che', 'mi', 'imparò', 'presto']",5,,verbo imparare riflessivo sul calco del ceco ucit se
-I073,L032,email,"scusa, rispondo con un ritardo",2-ott-2017,"[“determiner usage”, “ipercorrected”]","['scusa', ',', 'rispondo', 'con', 'un', 'ritardo']",5,,ipercorrettismo nell'uso dell'articolo indeterminativo
+I067,L046,email,penso che sia inutile di presentarmi ancora,2-ott-2017,[“verbal morphology”],"['penso', 'che', 'sia', 'inutile', 'di', 'presentarmi', 'ancora']",7,,ipercorrettismo
+I068,L046,email,"lavoro come ""receptionist"" qui a Praga a un albergo e anche come una barista",2-ott-2017,"[“determiner usage”, “ipercorrected”]","lavoro come ""receptionist"" qui a Praga a un albergo e anche come una barista",16,,ipercorrettismo nell'uso dell'articolo indeterminativo
+I069,L041,email,Spero di incontrarLa personale,2-ott-2017,[“noun morphology”],"['Spero', 'di', 'incontrarLa', 'personale']",4,,equivoco tra forma aggettivale e avverbiale
+I070,L043,email,Io lavoro come l´insegnante di inglese,2-ott-2017,"[“determiner usage”, “ipercorrected”]","['Io', 'lavoro', 'come', ""l'insegnante"", 'di', 'inglese']",6,,ipercorrettismo nell'uso dell'articolo determinativo
+I071,L043,email,"Perche mi piacciono le lingue straniere, ho deciso di imparare l´italiano",2-ott-2017,[“syntax”],"['Perche', 'mi', 'piacciono', 'le', 'lingue', 'straniere', ',', 'ho', 'deciso', 'di', 'imparare', ""l'italiano""]",11,,uso del perché italiano in funzione di siccome a inizio di frase sul calco del ceco proto.
+I072,L048,email,Spero che mi imparó presto,2-ott-2017,[“syntax”],"['Spero', 'che', 'mi', 'imparò', 'presto']",5,,verbo imparare riflessivo sul calco del ceco ucit se
+I073,L048,email,"scusa, rispondo con un ritardo",2-ott-2017,"[“determiner usage”, “ipercorrected”]","['scusa', ',', 'rispondo', 'con', 'un', 'ritardo']",5,,ipercorrettismo nell'uso dell'articolo indeterminativo
 I074,L032,email,L'avvocato stesso mi ha promesso di pensarci e di scriverti un mail se vorrà chiedere qualche cosa,2-ott-2017,[“noun morphology”],"[""L'avvocato"", 'stesso', 'mi', 'ha', 'promesso', 'di', 'pensarci', 'e', 'di', 'scriverti', 'un', 'mail', 'se', 'vorrà', 'chiedere', 'qualche', 'cosa']",17,,equivoco tra generi
 I075,L033,email,sono a letto con la febre,2-ott-2017,[“ortography”],"['sono', 'a', 'letto', 'con', 'la', 'febre']",6,,scempiamento
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,80,,
+I076,L040,survey-message,Ho iniziato a studiare l'italiano perché mi piace la lingua,,,,,,
+I077,L041,survey-message,"Perchè mi piace la lingua italiana e anche la musica, i film e il modo della vita in Italia ",,,,,,
+I078,L042,survey-message,Non sono sicuro - è la cosa del cuore. qualche lingue mi piaciono piu delle altre. Prima l'italiano ho studiato l'inglese ,,,,,,
+I079,L043,survey-message,Perché sono l'insegnante della lingua ceca e inglese e mi aiuta nel mio lavoro (studiare le lingue straniere) ,,,,,,
+I080,L044,survey-message,Perché mi piacciono le lingue straniere e l'Italia è un paese bello per le vacanze e voglio parlare con la gente dove sono qui ,,,,,,
+I082,L046,survey-message,"Perchè ho gli amici italiani, mi piace la cultura e la lingua italiana, anche le canzoni...quasi tutto :) e vorrei capire e parlare italiano ",,,,,,
+I083,L047,survey-message,"Ho iniziato a studiare l'italiano perché mi piace molto la cultura italiana, eppure la lingua ",,,,80,,
+I084,L048,survey-message,Perché abitavo li ,,,,,,
+I085,L050,survey-message,"Imparate una nuova lingua e avrete una nuova anima, dicono i Cechi. Mi ero così innamorato dell'Italia che ho perso l'anima ceca. All'inizio mi divertivo ascoltando i dialetti, le diverse pronunce e le cadenze. Mi piaceva tantissimo imitare i parlanti fino a tal punto che ho imparato a parlare italiano anch'io ",,,,,,
+I086,L051,survey-message,Perché ho dovuto parlare italiano al lavoro ,,,,,,
+I089,L060,survey-message,Mi sembrava una lingua bella ,,,,,,
+I090,L061,survey-message,amo l´italiano ,,,,,,
+I093,L064,survey-message,L'amo,,,,,,
+I094,L065,survey-message,Perché mi piace la cultura italiana ,,,,,,
+I095,L066,survey-message,perché mi sempre piaceva la lingua italiana ,,,,,,
+I096,L067,survey-message,Per la curiosita e per poter parlare con gli uomini italiani ,,,,,,
+I097,L075,survey-message,"l´italiano mi e piaciuto quando ero piccola. Avevo paura della grammatica mi sembrava molto difficile. Dopo ho iniziato ad avere i lezioni dell´italiano. Quando studiavo la scuola piu alta, ho scelto l´italiano come terza lingua da studiare. Sono andata in Italia nella stagione dell´estate. Ci imparavo molto perche parlavo ed ascoltavo l´italiano 12 ore di giorno. Lavoravo in Italia per 6 mesi",,,,,,
+I098,L076,survey-message,Stavo imparando il latino e volevo sfruttarlo per imparare anche una lingua romanza viva. La scelta dell'italiano è stata piuttosto casuale (la scelta tra l'italiano e lo spagnolo) ,,,,,,
+I099,L077,survey-message,"Volevo studiare le lingue straniere all´universita e volevo sostituire il tedesco con un´altra lingua da aggiungere all´inglese, perché il tedesco mi sembrava troppo difficile. Mi piaceva da sempre il suono d´italiano e per quello ho iniziato a frequentare i corsi d´italiano ",,,,,,
+I100,L078,survey-message,"Dopo tre anni in Italia mi sono deciso di andare a studiare la lingua italiana piu profondo, perche mi serviva conoscera la lingua per il lavoro ",,,,,,
+I102,L080,survey-message,perche e una bella lingua ,,,,,,
+I103,L084,text-message,Che abbiano la verità?,,,,,,
