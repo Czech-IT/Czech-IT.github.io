@@ -31,7 +31,7 @@ layout: none
           <h1 class="typography-display-4">Czech-IT!</h1>
           <p class="font-weight-light typography-title">Linguistic corpus of native Czech learners acquiring Italian language</p>
           <p>
-            <a class="btn btn-lg btn-secondary" data-toggle="modal" href="#doc_modal_download">View the Corpus</a>
+            <a class="btn btn-lg btn-secondary" href="/corpus">View the Corpus</a>
             <a class="btn btn-lg btn-light" href="#doc_main">Learn More</a>
           </p>
           <!--<p class="text-white-hint typography-caption">Currently v4.0.0-beta
@@ -126,7 +126,7 @@ layout: none
                 <h4 class="text-secondary typography-subheading">Organization</h4>
                 <p> The project is based on quantitative analyses of the dataset, which is constituted by an amount of different kinds of communicative situations, in order to retain a wide range of linguistic behaviors and styles.</p>
                 <p>
-            <a class="btn btn-lg btn-secondary" data-toggle="modal" href="#doc_modal_download">View the Corpus</a>
+            <a class="btn btn-lg btn-secondary" href="/corpus">View the Corpus</a>
           </p>
               </div>
               <div class="col-md-6 mt-lg">
