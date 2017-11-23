@@ -81,7 +81,7 @@ layout: none
   <main class="doc-main" id="doc_main">
     <div class="container">
     <input type="text" id="search" placeholder="  live search" class="form-control"></input>
-      <table class="table  table-hover">
+      <table class="table  table-hover" id="tableCorpus">
       <thead>
     <tr>
       <th scope="col">Item</th>
@@ -107,6 +107,13 @@ layout: none
   <!-- Additional JavaScript for documentation site -->
   <script src="/assets/css/material/bs/docs.min.js"></script>
   <script src="/assets/css/material/js/project.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+  <script>
+  $(document).ready(function() {
+    $('#tableCorpus').DataTable();
+} );
+</script>
   <script>
   $("#search").keyup(function () {
     var value = this.value.toLowerCase().trim();
