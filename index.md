@@ -3,13 +3,10 @@ title: Introducing Czech-IT!
 description: Linguistic corpus of native Czech learners acquiring Italian language
 layout: none
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-  <title>Material</title>
   <!-- CSS -->
   <!-- Add Material font (Roboto) and Material icon as needed -->
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
@@ -28,12 +25,12 @@ layout: none
   <header class="navbar navbar-dark toolbar-waterfall doc-navbar" id="doc_navbar">
     <span class="navbar-brand doc-navbar-logo">M</span>
   </header>
-  <div class="jumbotron jumbotron-fluid mb-xl text-white doc-jumbotron" id="doc_index_jumbotron">
+  <div class="jumbotron jumbotron-fluid mb-xl text-white doc-jumbotron" id="doc_index_jumbotron" style="background:#227799">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-sm-10 col-xl-6">
-          <h1 class="typography-display-4">Material</h1>
-          <p class="font-weight-light typography-title">Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4.</p>
+          <h1 class="typography-display-4">Czech-IT!</h1>
+          <p class="font-weight-light typography-title">Linguistic corpus of native Czech learners acquiring Italian language</p>
           <p>
             <a class="btn btn-lg btn-secondary" data-toggle="modal" href="#doc_modal_download">Download Material</a>
             <a class="btn btn-lg btn-light" href="/assets/css/material/docs/4.0/getting-started/introduction/">Documentation</a>
