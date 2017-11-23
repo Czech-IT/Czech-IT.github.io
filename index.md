@@ -143,7 +143,23 @@ layout: none
             <h3 class="text-primary">Project</h3>
             <div class="row">
             <div class="col-md-6 mt-lg">
-                <h4 class="text-secondary typography-subheading">Research team</h4>
+            <h4 class="text-secondary typography-subheading">Research activities</h4>
+                <p>
+                	<ul class="list-style">
+                	<li>December 31st, 2017<br>
+                	7th AIUCD Conference<br>
+                	Università degli Studi di Bari
+                	</li>
+                	<li>November 3rd, 2017<br>
+                	Loquit - Colloquia di Italianistica<br>
+                	Palacky University, Olomouc
+                	</li>
+                	</ul>
+                </p>
+                <br>
+              </div>
+              <div class="col-md-6 mt-lg">
+              <h4 class="text-secondary typography-subheading">Research team</h4>
                 <p>
                 	<ul class="list-style">
                 	<li><strong class="text-primary">Marco Petolicchio</strong> <br>
@@ -156,14 +172,12 @@ layout: none
                 	</li>
                 	</ul>
                 </p>
-              </div>
-              <div class="col-md-6 mt-lg">
                 <h4 class="text-secondary typography-subheading">Cite the project</h4>
                 <p>Czech-IT! is citable with the subsequent DOI:
-                <blockquote class="blockquote">
-  <p>Petolicchio, Marco, & Bolpagni, Marcello. (2017). <br>
-  Czech-IT! - Linguistic corpus of native Czech learners acquiring Italian language <br>(Version v.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.824985</p>
-</blockquote>
+                <ul>
+  <li>Petolicchio, Marco, & Bolpagni, Marcello. (2017). <br>
+  Czech-IT! - Linguistic corpus of native Czech learners acquiring Italian language <br>(Version v.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.824985</li>
+</ul>
                <br>
             <a class="btn btn-lg btn-secondary" data-toggle="modal" href="https://zenodo.org/badge/latestdoi/96205789">DOI: 10.5281/zenodo.824985</a>
           </p>
