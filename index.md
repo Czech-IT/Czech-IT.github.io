@@ -145,12 +145,16 @@ layout: none
             <h4 class="text-secondary typography-subheading">Research activities</h4>
                 <p>
                 	<ul class="list-style">
-                	<li>December 31st, 2017<br>
-                	7th AIUCD Conference<br>
+                	<li>7th AIUCD Conference<br>
+                  January 31st - February 3rd, 2018 <br>
                 	Università degli Studi di Bari
                 	</li>
-                	<li>November 3rd, 2017<br>
-                	Loquit - Colloquia di Italianistica<br>
+                  <li>Introducing Czech-IT!<br>
+                  December 1st, 2017<br>
+                  Università degli Studi di Udine
+                  </li>
+                	<li>Loquit - Colloquia di Italianistica<br>
+                	November 3rd, 2017<br>
                 	Palacky University, Olomouc
                 	</li>
                 	</ul>
@@ -173,10 +177,10 @@ layout: none
                 </p>
                 <h4 class="text-secondary typography-subheading">Cite the project</h4>
                 <p>Czech-IT! is citable with the subsequent DOI:
-                <ul>
-  <li>Petolicchio, Marco, & Bolpagni, Marcello. (2017). <br>
-  Czech-IT! - Linguistic corpus of native Czech learners acquiring Italian language <br>(Version v.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.824985</li>
-</ul>
+                <br>
+  <strong>Petolicchio, Marco, & Bolpagni, Marcello. (2017).</strong> <br>
+  Czech-IT! - Linguistic corpus of native Czech learners acquiring Italian language <br>(Version v.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.824985
+<br>
             <a class="btn btn-lg btn-light" target="_blank" href="https://zenodo.org/badge/latestdoi/96205789">DOI: 10.5281/zenodo.824985</a>
           </p>
               </div>             
