@@ -176,12 +176,11 @@ layout: none
                 	</ul>
                 </p>
                 <h4 class="text-secondary typography-subheading">Cite the project</h4>
-                <p>Czech-IT! is citable with the subsequent DOI:
-                <br>
+                <p>
   <strong>Petolicchio, Marco, & Bolpagni, Marcello. (2017).</strong> <br>
   Czech-IT! - Linguistic corpus of native Czech learners acquiring Italian language <br>(Version v.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.824985
 <br>
-            <a class="btn btn-lg btn-light" target="_blank" href="https://zenodo.org/badge/latestdoi/96205789">DOI: 10.5281/zenodo.824985</a>
+            <a class="btn btn-light" target="_blank" href="https://zenodo.org/badge/latestdoi/96205789">DOI: 10.5281/zenodo.824985</a>
           </p>
               </div>             
             </div>
