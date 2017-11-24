@@ -9,7 +9,7 @@ layout: none
   <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
   <!-- CSS -->
   <!-- Add Material font (Roboto) and Material icon as needed -->
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!-- Add Material CSS, replace Bootstrap CSS -->
   <link href="/assets/css/material/css/material.min.css" rel="stylesheet">
@@ -20,6 +20,9 @@ layout: none
   <meta content="#9c27b0" name="theme-color">
   <link href="/assets/css/material/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
   <link href="/assets/css/material/favicon.ico" rel="icon">
+  <style>
+  * {font-family: "Lato"}
+  </style>
 </head>
 <body class="doc-body">
   <header class="navbar navbar-dark toolbar-waterfall doc-navbar" id="doc_navbar">
