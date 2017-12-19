@@ -134,7 +134,7 @@ layout: none
               </div>
               <div class="col-md-6 mt-lg">
                 <h4 class="text-secondary typography-subheading">Sociolinguistics</h4>
-                <p>The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by their communicative situation, wich yields a diamesic-oriented taxonomy.</p>
+                <p>The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by their communicative situation which yields a diamesic-oriented taxonomy.</p>
                 <h4 class="text-secondary typography-subheading">Computational analyses</h4>
                 <p>Computational analyses as tokenization, POS-tagging, word counting are provided in order to result in a fully queryable corpus. The data can be queried also for some fields of learners' knowledges.
                 </p>
@@ -201,7 +201,7 @@ layout: none
               </div>
               <div class="col-md-4 mt-lg">
                 <h4 class="text-secondary typography-subheading">Long-term</h4>
-                <p>Result in a quantitative way to display the corpus and provide statistical informations about the learning path in function of learners and language abilities.</p>
+                <p>Result in a quantitative way to display the corpus and provide statistical information about the learning path in function of learners and language abilities.</p>
               </div>
             </div>
           </div>
