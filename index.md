@@ -148,6 +148,10 @@ layout: none
             <h4 class="text-secondary typography-subheading">Research activities</h4>
                 <p>
                 	<ul class="list-style">
+                  <li>Presentazione di Czech-IT!<br>
+                  April 26th, 2018 <br>
+                	Univerzita Konštantína Filozofa v Nitre <a href="https://drive.google.com/open?id=1nBwpJsXL46nQxFarvbVRyfnQHqkdF6R1WO2i3-MexyU" target="_blank">[slides]</a>
+                	</li>
                 	<li>7th AIUCD Conference<br>
                   January 31st - February 3rd, 2018 <br>
                 	Università degli Studi di Bari
