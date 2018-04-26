@@ -150,7 +150,7 @@ layout: none
                 	<ul class="list-style">
                   <li>Presentazione di Czech-IT!<br>
                   April 26th, 2018 <br>
-                	Univerzita Konštantína Filozofa v Nitre <a href="https://drive.google.com/open?id=1nBwpJsXL46nQxFarvbVRyfnQHqkdF6R1WO2i3-MexyU" target="_blank">[slides]</a>
+                	Univerzita Konštantína Filozofa v Nitre <a href="https://docs.google.com/presentation/d/11ZxiVujN0DSG43U7QObptA16cyi5N9Ash9Iw8KD8kKA/edit?usp=sharing" target="_blank">[survey]</a>
                 	</li>
                 	<li>7th AIUCD Conference<br>
                   January 31st - February 3rd, 2018 <br>
