@@ -13,7 +13,7 @@ import csv, nltk, string
 # Variables
 ###############################################################
 
-outfile         = open('dataset.csv', 'w', encoding='utf8', newline='')
+outfile         = open('dataset.csv', 'w',  encoding="utf-8", newline='')
 
 write_outfile   = csv.writer(outfile)
 
