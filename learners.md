@@ -1,13 +1,6 @@
 ---
 title: Learners
 layout: table
-headers:
-	- Learner-id
-	- Age
-	- Education
-	- Native Language
-	- Other Languages
-	- Italian Level
 
 ---
 
