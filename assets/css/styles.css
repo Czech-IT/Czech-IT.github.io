@@ -45,3 +45,7 @@ tbody tr:hover{
 table{
       width:100%
 }
+
+tr:target{
+      background-color:#69f0ae;
+}

@@ -12,7 +12,7 @@ layout: table
 	    </div>
 <div class="col-sm-12 col-md-6">
 			<div class="btn-group" data-toggle="buttons">
-			  <label class="btn btn-light active">
+			  <label class="btn btn-light">
 			    <input onchange="filterme()" type="checkbox" name="type" value="text-message|email|survey-message|audio">All
 			  </label>
 			  <label class="btn btn-light">
@@ -31,7 +31,7 @@ layout: table
 		</div>
 	</div>
 </div>
-
+<br><br>
 
 
 {% for item in site.data.dataset %}
@@ -39,7 +39,7 @@ layout: table
 <tr id="{{ item.item-id }}">
 
 <td> {{ item.item-id }}</td>
-<td> <a href="../learners/#{{ item.learner-id }}">{{ item.learner-id }}</a></td>
+<td> <a href="../learners#{{ item.learner-id }}">{{ item.learner-id }}</a></td>
 <td> {{ item.content }}</td>
 <td> {{ item.type }}</td>
 </tr>

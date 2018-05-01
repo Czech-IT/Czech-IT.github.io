@@ -34,7 +34,8 @@ layout: none
           <h1 class="typography-display-4">Czech-IT!</h1>
           <p class="font-weight-light typography-title">Linguistic corpus of native Czech learners acquiring Italian language</p>
           <p>
-            <a class="btn btn-lg btn-secondary" href="/corpus">Browse the Corpus</a>
+            <a class="btn btn-lg btn-primary" data-toggle="modal" href="/corpus#doc_main">Browse the Corpus</a>
+            <a class="btn btn-lg btn-secondary" data-toggle="modal" href="/learners#doc_main">Learners</a>
             <a class="btn btn-lg btn-light" href="#doc_main">Learn More</a>
           </p>
           <!--<p class="text-white-hint typography-caption">Currently v4.0.0-beta
