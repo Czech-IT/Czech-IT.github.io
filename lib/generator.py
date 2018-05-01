@@ -13,7 +13,7 @@ import csv, nltk, string
 # Variables
 ###############################################################
 
-outfile         = open('dataset.csv', 'w',  encoding="utf-8", newline='')
+outfile         = open('../_data/dataset.csv', 'w',  encoding="utf-8", newline='')
 
 write_outfile   = csv.writer(outfile)
 
@@ -49,7 +49,7 @@ header          = ['item-id', 'learner-id', 'type' ,'content', 'date', 'manual-p
 #write_outfile.writerow(header)
 
 # Open the file
-with open('data.csv', 'r', encoding='utf8', newline='') as csvfile:  # this will close the file automatically.
+with open('../_data/data.csv', 'r', encoding='utf8', newline='') as csvfile:  # this will close the file automatically.
     reader      = csv.reader(csvfile)
 
     write_outfile.writerow(header)

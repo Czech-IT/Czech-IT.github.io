@@ -117,6 +117,22 @@ layout: none
     $('#tableCorpus').DataTable();
 } );
 </script>
+<script>
+
+function filterme() {
+  //build a regex filter string with an or(|) condition
+  var types = $('input:checkbox[name="type"]:checked').map(function() {
+    return '^' + this.value + '\$';
+  }).get().join('|');
+  //filter in column 3, with an regex, no smart filtering, no inputbox,not case sensitive
+  otable.fnFilter(types, 3, true, false, false, false, false);
+
+  //use radio values
+  var frees = $('input:radio[name="free"]:checked')[0].value;
+  //now filter in column 2, with no regex, no smart filtering, no inputbox,not case sensitive
+  otable.fnFilter(frees, 2, false, false, false, false);
+}
+</script>
  <!-- <script>
   $("#search").keyup(function () {
     var value = this.value.toLowerCase().trim();
@@ -132,5 +148,15 @@ layout: none
     });
 });
 </script>-->
+<input onchange="filterme()" type="checkbox" name="type" value="text-message|email|survey-message|audio">All
+  <input onchange="filterme()" type="checkbox" name="type" value="text-message">Text-message
+  <input onchange="filterme()" type="checkbox" name="type" value="email">Email
+  <input onchange="filterme()" type="checkbox" name="type" value="survey-message">Surveys
+  <input onchange="filterme()" type="checkbox" name="type" value="audio">Audio
+  <hr>
+  <input onchange="filterme()" type="radio" name="free" value="0">0
+  <input onchange="filterme()" type="radio" name="free" value="1">1
+    <input onchange="filterme()" type="radio" name="free" value="">All
+
 </body>
 </html>
