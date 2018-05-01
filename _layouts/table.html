@@ -112,12 +112,17 @@ layout: none
   <script src="/assets/css/material/js/project.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+<!--
   <script>
   $(document).ready(function() {
     $('#tableCorpus').DataTable();
 } );
 </script>
+-->
 <script>
+$(function() {
+  otable = $('#tableCorpus').dataTable();
+})
 
 function filterme() {
   //build a regex filter string with an or(|) condition
