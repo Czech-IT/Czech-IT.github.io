@@ -4,44 +4,10 @@ layout: table
 
 ---
 
-<!--
-<div class="dataTables_wrapper container-fluid dt-bootstrap4 no-footer">
-    <div class="row">
-	    <div class="col-sm-12 col-md-6">
-	    <p>Filter by type: 	</p>
-	    </div>
-<div class="col-sm-12 col-md-6">
-			<div class="btn-group" data-toggle="buttons">
-			  <label class="btn btn-light">
-			    <input onchange="filterme()" type="checkbox" name="type" value="text-message|email|survey-message|audio">All
-			  </label>
-			  <label class="btn btn-light">
-			    <input onchange="filterme()" type="checkbox" name="type" value="text-message">Text-message
-			  </label>
-			  <label class="btn btn-light">
-			    <input onchange="filterme()" type="checkbox" name="type" value="email">Email
-			  </label>
-			   <label class="btn btn-light">
-			    <input onchange="filterme()" type="checkbox" name="type" value="survey-message">Surveys
-			  </label>
-			   <label class="btn btn-light">
-			    <input  onchange="filterme()" type="checkbox" name="type" value="audio">Audio
-			  </label>
-			</div>
-		</div>
-	</div>
-</div>
-<br><br>
-
--->
 <div class="dataTables_wrapper container-fluid dt-bootstrap4 no-footer">
     <div class="row">
 	    <div class="col-sm-12">
 <div class="form-inline">
-    <div class="form-check mr-3">
-        <input type="checkbox" onchange="filterme()" class="filled-in form-check-input" id="check-all" checked="checked"  value="text-message|email|survey-message|audio" name="type">
-        <label class="form-check-label" for="check-all">All</label>
-    </div>
     <div class="form-check mr-3">
         <input type="checkbox" onchange="filterme()" class="filled-in form-check-input" id="check-survey" checked="checked"  value="survey-message" name="type">
         <label class="form-check-label" for="check-survey">Survey</label>
