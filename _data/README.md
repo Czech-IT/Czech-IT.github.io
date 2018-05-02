@@ -2,29 +2,16 @@
 
 ## Files 
 
-We have 3 files:
-* dataset.csv - which contains raw data;
+We have the following files:
+* data.csv - insert data here
+* dataset.csv - automatically generated file with tokenization etc. Don't touch it;
 * learners.csv - a table where are stored the infos of the learners
-* annotations-dataset.csv - in which every item in dataset.csv's rows are marked, either manually than automatically
 
-## dataset.csv
+## data.csv
 The table of the entries
-### item-id 
-univoque identifier for the entry
+## dataset.csv
+The automatically generated table of the entries by the script /lib/generator.py
 
-### learner-id
-univoque id for the learner, linked to learners.csv
-
-### content
-the entry
-
-## learners.csv 
-Table of learners, including grades, languages, ID, ecc.
-
-## annotations-dataset.csv
-The table for the annotations
-### item-id
-linked to dataset.csv
 
 ### manual-phenomena
 array of categories
@@ -47,3 +34,19 @@ In progress with TreeTagger
 
 ### notes
 manual notes on the entries
+
+### item-id 
+univoque identifier for the entry
+
+### learner-id
+univoque id for the learner, linked to learners.csv
+
+### content
+the entry
+
+## learners.csv 
+Table of learners, including grades, languages, ID, ecc.
+
+### languages 
+
+Languages are written with the standard ISO 639-1 code [wiki](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
