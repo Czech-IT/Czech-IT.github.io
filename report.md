@@ -1,5 +1,5 @@
 ---
-title: Czech-IT | Dashboard
+title: Czech-IT | Report
 description: Linguistic corpus of native Czech learners acquiring Italian language
 layout: none
 ---
@@ -55,7 +55,7 @@ layout: none
   </div>
   <main>
 
-<iframe width="1280" height="720" src="https://datastudio.google.com/embed/reporting/1MLVBR92iHi6Yvekqo5v7lkshUpCJmLNL/page/V5NR" frameborder="0" style="border:0" allowfullscreen style="margin:0 auto"></iframe>
+<iframe width="1280" height="960" src="https://datastudio.google.com/embed/reporting/16ySWT7ovm8dQ09QP_u42AdU3MW7dUeJO/page/98UR" frameborder="0" style="border:0" allowfullscreen></iframe>
 </main>
 </body>
 </html>
