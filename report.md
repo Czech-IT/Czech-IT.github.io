@@ -21,8 +21,8 @@ layout: none
   <link href="/assets/css/material/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
   <link href="/assets/css/material/favicon.ico" rel="icon">
   <meta property="og:title" content="Gif as thumbnail by VoidCanvas.com" />
-  <meta property="og:url" content="https://metalshan.github.io/gif-page-share/smiley-gif.gif" />
-  <meta property="og:image" content="https://metalshan.github.io/gif-page-share/smiley-gif.gif" />
+  <meta property="og:url" content="https://czech-it.github.io" />
+  <meta property="og:image" content="https://metalshan.github.io/assets/czech-it.gif" />
   <style>
 
   * {font-family: "Lato"}
