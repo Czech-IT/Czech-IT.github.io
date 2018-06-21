@@ -137,7 +137,7 @@ layout: none
                 <h4 class="text-secondary typography-subheading">Sociolinguistics</h4>
                 <p>The corpus is organized in the form of a tabular file format (spreadsheet), in which the entries are listed in a raw modality. These are navigable in the webspace by their communicative situation which yields a diamesic-oriented taxonomy.</p>
                 <h4 class="text-secondary typography-subheading">Computational analyses</h4>
-                <p>Computational analyses as tokenization, POS-tagging, word counting are provided in order to result in a fully queryable corpus. The data can be queried also for some fields of learners' knowledges.
+                <p>Computational analyses as tokenization, POS-tagging, word counting are provided in order to result in a fully queryable corpus. The data can be queried also for some fields of learners' knowledge.
                 </p>
               </div>
             </div>
