@@ -174,12 +174,14 @@ layout: none
                 <p>
                 	<ul class="list-style">
                 	<li><strong class="text-primary">Marco Petolicchio</strong> <br>
+                  <strong>Contributions in the project:</strong> 94.3% (80/83 commits). Last contribution: September 2018<br>
                 	Computational analyses, digital strategies<br>
                 	Palacky University, Olomouc
                 	</li>
                 	<li><strong class="text-primary">Marcello Bolpagni</strong> <br>
+                  <strong>Contributions in the project:</strong> 5.7% (3/83 commits). Last contribution: May 2018<br>
                 	Data acquisition and policies<br>
-                	Silesian University, Opava
+                	Palacky University, Olomouc
                 	</li>
                 	</ul>
                 </p>
