@@ -149,19 +149,31 @@ layout: none
             <h4 class="text-secondary typography-subheading">Research activities</h4>
                 <p>
                 	<ul class="list-style">
-                  <li>Presentazione di Czech-IT!<br>
+                  <li>M.Petolicchio. Sintagmi nominali in Italiano L2: apprendenti cechi e slovacchi<br>
+                  November 24th, 2018 <br>
+                	XIX. mezinárodní setkání romanistů, Palacky University Olomouc (CZ)
+                	</li>
+                  <li>M.Petolicchio. On Noun Phrases in Italian L2 by Czech and Slovak Learners<br>
+                  October 26th, 2018 <br>
+                	CIAL 2018, University of Languages of Azerbaijan, Baku
+                	</li>
+                  <li>M.Petolicchio. Open access linguistic corpus (Czech/Slovak to Italian L2)<br>
+                  October 4th, 2018 <br>
+                	TechLing 2018. Universidade Autonoma de Lisboa (PT)
+                	</li>
+                  <li>M.Bolpagni, M.Petolicchio. Presentazione di Czech-IT!<br>
                   April 26th, 2018 <br>
                 	Univerzita Konštantína Filozofa v Nitre <a href="https://docs.google.com/presentation/d/11ZxiVujN0DSG43U7QObptA16cyi5N9Ash9Iw8KD8kKA/edit?usp=sharing" target="_blank">[survey]</a>
                 	</li>
-                	<li>7th AIUCD Conference<br>
+                	<li>M.Bolpagni, M.Petolicchio. 7th AIUCD Conference<br>
                   January 31st - February 3rd, 2018 <br>
                 	Università degli Studi di Bari
                 	</li>
-                  <li>Introducing Czech-IT!<br>
+                  <li>M.Bolpagni, M.Petolicchio. Introducing Czech-IT!<br>
                   December 1st, 2017<br>
                   Università degli Studi di Udine
                   </li>
-                	<li>Loquit - Colloquia di Italianistica<br>
+                	<li>M.Bolpagni, M.Petolicchio. Loquit - Colloquia di Italianistica<br>
                 	November 3rd, 2017<br>
                 	Palacky University, Olomouc
                 	</li>
@@ -170,17 +182,14 @@ layout: none
                 <br>
               </div>
               <div class="col-md-6 mt-lg">
-              <h4 class="text-secondary typography-subheading">Research team</h4>
+              <h4 class="text-secondary typography-subheading">Active members</h4>
                 <p>
                 	<ul class="list-style">
                 	<li><strong class="text-primary">Marco Petolicchio</strong> <br>
                 	Computational analyses, digital strategies<br>
                 	Palacky University, Olomouc
                 	</li>
-                	<li><strong class="text-primary">Marcello Bolpagni</strong> <br>
-                	Data acquisition and policies<br>
-                	Palacky University, Olomouc
-                	</li>
+                	
                 	</ul>
                 </p>
                 <h4 class="text-secondary typography-subheading">Cite the project</h4>
