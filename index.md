@@ -32,7 +32,7 @@ layout: none
       <div class="row justify-content-center">
         <div class="col-sm-10 col-xl-6">
           <h1 class="typography-display-4">Czech-IT!</h1>
-          <p class="font-weight-light typography-title">Linguistic corpus of native Czech learners acquiring Italian language</p>
+          <p class="font-weight-light typography-title">Linguistic corpus of native Czech and Slovak learners acquiring Italian language</p>
           <p>
             <a class="btn btn-lg btn-primary" data-toggle="modal" href="/corpus#doc_main">Browse the Corpus</a>
             <a class="btn btn-lg btn-secondary" data-toggle="modal" href="/learners#doc_main">Learners</a>
